@@ -1,0 +1,264 @@
+{
+  "_meta": {
+    "version": "2.0",
+    "frozen_date": "2025-06-15",
+    "description": "Operative WBS-ITC codebook: CPC anchor prefixes and keyword stems for 15 ITC domains. Frozen prior to empirical tag-distribution analysis. This file is the authoritative machine-readable rule set; Table 2 in the manuscript is a summary presentation.",
+    "n_domains": 15,
+    "wbs_layers": ["WBS-1 Materials", "WBS-2 Manufacturing", "WBS-3 Robotics", "WBS-4 Structures & Systems"]
+  },
+  "1-1": {
+    "domain_name": "Regolith Processing / Refining",
+    "wbs_layer": "WBS-1 Materials",
+    "cpc_anchors": [
+      "C22B",
+      "B07B",
+      "B02C",
+      "B03"
+    ],
+    "keyword_stems": [
+      "regolith processing",
+      "beneficiation",
+      "particle size",
+      "mineral separation",
+      "excavat",
+      "regolith refin",
+      "oxygen extraction"
+    ]
+  },
+  "1-2": {
+    "domain_name": "Binder / Geopolymer",
+    "wbs_layer": "WBS-1 Materials",
+    "cpc_anchors": [
+      "C04B28",
+      "C04B12",
+      "C04B7"
+    ],
+    "keyword_stems": [
+      "geopolymer",
+      "binder",
+      "cement",
+      "concrete",
+      "sulfur concrete",
+      "calcium carbonate"
+    ]
+  },
+  "1-3": {
+    "domain_name": "Composite / Ceramic / Sintered Bodies",
+    "wbs_layer": "WBS-1 Materials",
+    "cpc_anchors": [
+      "C04B35",
+      "B22F3",
+      "C04B33"
+    ],
+    "keyword_stems": [
+      "ceramic",
+      "sintered body",
+      "vitrif",
+      "composite material",
+      "fiber reinforc"
+    ]
+  },
+  "2-1": {
+    "domain_name": "Extrusion-based Additive Manufacturing",
+    "wbs_layer": "WBS-2 Manufacturing",
+    "cpc_anchors": [
+      "B33Y10",
+      "B29C48",
+      "B28B1",
+      "B33Y30"
+    ],
+    "keyword_stems": [
+      "3d print",
+      "additive manufactur",
+      "extrusion",
+      "contour crafting",
+      "layer-by-layer",
+      "fused deposition"
+    ]
+  },
+  "2-2": {
+    "domain_name": "Powder Bed Melting / Sintering",
+    "wbs_layer": "WBS-2 Manufacturing",
+    "cpc_anchors": [
+      "B22F10",
+      "B22F12",
+      "H05B6"
+    ],
+    "keyword_stems": [
+      "selective laser sinter",
+      "SLS",
+      "SLM",
+      "electron beam melt",
+      "powder bed",
+      "microwave sinter"
+    ]
+  },
+  "2-3": {
+    "domain_name": "Solar / Laser Sintering",
+    "wbs_layer": "WBS-2 Manufacturing",
+    "cpc_anchors": [
+      "B23K26",
+      "F24S"
+    ],
+    "keyword_stems": [
+      "solar sinter",
+      "laser sinter",
+      "concentrated solar",
+      "solar furnace"
+    ]
+  },
+  "2-4": {
+    "domain_name": "Process Monitoring / NDI",
+    "wbs_layer": "WBS-2 Manufacturing",
+    "cpc_anchors": [
+      "G01N",
+      "G01B",
+      "B33Y50"
+    ],
+    "keyword_stems": [
+      "non-destructive",
+      "NDI",
+      "quality control",
+      "in-situ monitor",
+      "process monitor",
+      "inspect",
+      "ultrasonic test"
+    ]
+  },
+  "3-1": {
+    "domain_name": "Autonomous Mobile Robots",
+    "wbs_layer": "WBS-3 Robotics",
+    "cpc_anchors": [
+      "B25J9",
+      "B62D",
+      "G05D1"
+    ],
+    "keyword_stems": [
+      "autonomous robot",
+      "mobile robot",
+      "lunar rover",
+      "mars rover",
+      "robotic vehicle",
+      "autonomous vehicle",
+      "navigation"
+    ]
+  },
+  "3-2": {
+    "domain_name": "Tele-operation",
+    "wbs_layer": "WBS-3 Robotics",
+    "cpc_anchors": [
+      "G06F3",
+      "H04L"
+    ],
+    "keyword_stems": [
+      "tele-operat",
+      "teleoperat",
+      "remote operat",
+      "remote control",
+      "telerobot",
+      "telepresence"
+    ]
+  },
+  "3-3": {
+    "domain_name": "Autonomous Construction Systems",
+    "wbs_layer": "WBS-3 Robotics",
+    "cpc_anchors": [
+      "G05D1/02",
+      "E04G21"
+    ],
+    "keyword_stems": [
+      "autonomous construct",
+      "swarm construct",
+      "multi-robot",
+      "automated construct",
+      "robotic construct",
+      "automated assembl"
+    ]
+  },
+  "4-1": {
+    "domain_name": "Habitat Structures",
+    "wbs_layer": "WBS-4 Structures & Systems",
+    "cpc_anchors": [
+      "E04H15",
+      "B64G1/48",
+      "E04B1",
+      "E04H1"
+    ],
+    "keyword_stems": [
+      "habitat",
+      "shelter",
+      "living quarter",
+      "habitation",
+      "pressurized module",
+      "base structure",
+      "dwelling"
+    ]
+  },
+  "4-2": {
+    "domain_name": "Shielding Structures",
+    "wbs_layer": "WBS-4 Structures & Systems",
+    "cpc_anchors": [
+      "G21F1",
+      "E04B1/92"
+    ],
+    "keyword_stems": [
+      "shielding",
+      "radiation protect",
+      "micrometeorite",
+      "regolith shield",
+      "protection structure",
+      "cosmic ray"
+    ]
+  },
+  "4-3": {
+    "domain_name": "Landing Pad / Infrastructure",
+    "wbs_layer": "WBS-4 Structures & Systems",
+    "cpc_anchors": [
+      "E01C",
+      "B64G1/62"
+    ],
+    "keyword_stems": [
+      "landing pad",
+      "launch pad",
+      "runway",
+      "road",
+      "surface stabiliz",
+      "plume",
+      "infrastructure"
+    ]
+  },
+  "4-4": {
+    "domain_name": "Deployable Structures",
+    "wbs_layer": "WBS-4 Structures & Systems",
+    "cpc_anchors": [
+      "E04H15",
+      "B64G1/22"
+    ],
+    "keyword_stems": [
+      "inflatable",
+      "deployable",
+      "expandable",
+      "foldable",
+      "membrane structure",
+      "tensile structure",
+      "pneumatic"
+    ]
+  },
+  "4-5": {
+    "domain_name": "Life Support / ECLSS",
+    "wbs_layer": "WBS-4 Structures & Systems",
+    "cpc_anchors": [
+      "B64G1/46",
+      "A01G"
+    ],
+    "keyword_stems": [
+      "life support",
+      "ECLSS",
+      "oxygen generat",
+      "water recycl",
+      "air revitaliz",
+      "waste process",
+      "environmental control"
+    ]
+  }
+}
