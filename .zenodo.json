@@ -1,0 +1,31 @@
+{
+  "title": "Denominator construction for patent mapping in classification-poor emerging domains: A framework-first WBS–ITC approach with a lunar ISRU construction illustration",
+  "description": "Reproduction package for \"Denominator construction for patent mapping in classification-poor emerging domains.\" Contains the released adjudicated dataset (453 patent families), decision ledger, machine-readable WBS-ITC codebook, and scripts for exact downstream reconstruction of the core numeric tables (Tables 3–5), figures (Figs. 2–5), and sensitivity diagnostics (Supplementary Tables S6a, S8, S9, S10) reported in the manuscript.",
+  "upload_type": "dataset",
+  "creators": [
+    {"name": "Lee, Tai Sik"},
+    {"name": "Lee, Yoonsun", "orcid": "0000-0002-9651-4881"}
+  ],
+  "access_right": "open",
+  "license": "CC-BY-4.0",
+  "keywords": [
+    "patent mapping",
+    "denominator construction",
+    "classification-poor emerging domains",
+    "field delineation",
+    "WBS-ITC framework",
+    "work breakdown structure",
+    "integrated technology classification",
+    "lunar ISRU construction",
+    "scientometrics"
+  ],
+  "publication_date": "2026-04-23",
+  "version": "1.0",
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/Yoonsknowlege/WBS-ITC",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}
