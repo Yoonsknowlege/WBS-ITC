@@ -1,0 +1,55 @@
+Lens.org Query Provenance — ISRU Construction Patent Dataset
+=============================================================
+
+Search platform:  Lens.org (scholarly + patent search)
+Retrieval date:   2026-03-28
+Export format:    JSON (patent family level, simple families)
+
+Retrieval strategy
+------------------
+The initial retrieval universe was constructed through a two-stage
+CPC-based + keyword-expanded query on Lens.org.
+
+Stage 1 — CPC-anchored retrieval:
+  CPC prefixes used in primary search:
+    B64G (cosmonautic vehicles/equipment)
+    C04B (lime; magnesia; slag; cements; ceramics; refractories)
+    B33Y (additive manufacturing)
+    E04H (buildings for particular purposes; shelters)
+    B22F (working metallic powder)
+    B28B (shaping clay or other ceramic compositions)
+    G01N (investigating/analysing materials)
+    B25J (manipulators; robots)
+    E04B (general building constructions)
+
+Stage 2 — Keyword expansion:
+  Boolean structure:
+    ("lunar" OR "regolith" OR "planetary" OR "extraterrestrial"
+     OR "moon" OR "mars" OR "space construction" OR "in-situ resource")
+    AND
+    ("construction" OR "manufacturing" OR "additive" OR "structure"
+     OR "material" OR "sintering" OR "habitat" OR "shielding"
+     OR "3d print" OR "robotic" OR "landing pad")
+
+  Additional targeted queries for under-represented domains:
+    "contour crafting" OR "lunar concrete" OR "regolith processing"
+    "extraterrestrial construction" OR "space manufacturing"
+
+Post-retrieval processing
+-------------------------
+1. Deduplication at the simple-family level
+2. Staged consensus-based author screening (see manuscript Section 3.2
+   and Appendix A for the full screening protocol)
+3. Supplementary retrieval ("rescue") pass using CPC-bridging analysis
+   to identify missed families (10 rescue families, 9 ITC-classified)
+
+Important limitations
+---------------------
+- The analytical dataset is NOT a direct Boolean output.
+- The final 453-family released dataset was constructed through staged
+  screening, consensus adjudication, and supplementary retrieval.
+- Exact retrieval-universe replay requires the Lens.org saved search
+  state at the retrieval date, which may not be reproducible due to
+  index updates and coverage changes.
+- The repository supports framework reuse and analytical reconstruction,
+  not deterministic replay of the initial retrieval universe.
