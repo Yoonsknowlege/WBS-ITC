@@ -12,6 +12,14 @@ authors:
 
 year: 2026
 
+# Concept DOI — always resolves to the latest version of this reproduction
+# package on Zenodo. A version-specific DOI will be added when a versioned
+# release is cut alongside manuscript submission/acceptance.
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.20425593"
+    description: "Concept DOI — always resolves to the latest version of this reproduction package on Zenodo."
+
 license: CC-BY-4.0
 
 keywords:

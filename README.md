@@ -4,6 +4,7 @@ Reproduction package for:
 
 > Lee, T.S. & Lee, Y. (2026). *Auditable denominator design for patent field delineation: A WBS-ITC codebook-plus-ledger approach*.
 
+- Permanent archive: [10.5281/zenodo.20425593](https://doi.org/10.5281/zenodo.20425593) (Zenodo concept DOI; always resolves to the latest version)
 - License: CC-BY-4.0 (see `LICENSE`)
 - Citation: see `CITATION.cff`
 
