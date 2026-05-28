@@ -1,0 +1,454 @@
+lens_id,jurisdiction,source,is_classified,itc_codes,n_itc_tags,cpc_rule_domains,keyword_rule_domains,status,title_truncated,screening_category,analysis_set_443,adjudication_action
+172-275-795-866-748,US,r2_keep,True,4-3,1,,2-4;4-3,included_classified,Autonomous mobile mechanically deployed spaceport to provide a self-leveling sta,included_classified,true,suppress
+102-023-038-110-548,US,r2_keep,True,1-1;1-2,2,,1-2;2-4,included_classified,Mass-Optimized Geogrid for Regolith and Soil Stabilization in Extraterrestrial a,included_classified,true,add+suppress
+001-644-359-654-888,WO,r2_keep,True,2-1;2-2;2-3;2-4;3-1;4-1,6,2-1;2-3;2-4,2-1;4-1,included_classified,SOLAR ENERGY-BASED 3D PRINTING PLATFORM FOR THE CONSTRUCTION OF EXTRATERRESTRIAL,included_classified,true,add
+050-086-714-811-491,US,r2_keep,True,4-3;4-4,2,4-3;4-4,2-4;4-3;4-4,included_classified,DEPLOYABLE LUNAR LANDING PADS FOR SPACE MINING APPLICATIONS,included_classified,true,suppress
+062-567-139-510-205,US,r2_keep,True,4-1;4-2;4-4,3,4-4,2-4;3-1;4-1;4-4,included_classified,Inflatable docking station/garage for Mars rover,included_classified,true,add+suppress
+190-071-867-525-212,CN,r2_keep,True,1-2;2-3;3-3;4-1;4-5,5,2-3,1-2;4-1,included_classified,Moon base energy supply system based on solar energy and lunar in-situ resource ,included_classified,true,add
+106-594-158-271-391,CN,r2_keep,True,1-1;2-1;2-3,3,2-1,2-1,included_classified,3D printing equipment applied to lunar soil resources in lunar craters,included_classified,true,add
+123-475-504-559-879,US,r2_keep,True,2-1,1,,2-4,included_classified,"SPACE ANCHORS FOR USE ON THE MOON, MARS AND OTHER EXTRATERRESTRIAL BODIES",included_classified,true,add+suppress
+054-841-991-520-336,WO,r2_keep,True,2-1,1,2-1,2-1,included_classified,REGOLITH-BASED COMPOSITIONS,included_classified,true,keep
+068-937-559-043-352,CN,r2_keep,True,4-1,1,3-3;4-1,2-4;4-1,included_classified,Lunar soil bag stacking construction method and system using descending stage of,included_classified,true,suppress
+068-596-540-230-809,CN,r2_keep,True,2-1;2-4;4-1,3,2-1;2-4,1-2;2-1,included_classified,Low-power-consumption extraterrestrial celestial body in-situ additive manufactu,included_classified,true,add+suppress
+039-528-385-518-952,US,r2_keep,True,1-1;1-2;1-3;4-1,4,,4-3,included_classified,"Materials, Methods, and Apparatus for Lunar Engineered Regolith Infrastructure",included_classified,true,add+suppress
+146-821-351-857-456,CN,r2_keep,True,1-2;2-1,2,1-2;2-1,1-2;2-1,included_classified,Lunar regolith concrete suitable for being extruded and preparation method there,included_classified,true,keep
+170-224-735-783-796,CN,r2_keep,True,2-1;3-1,2,,2-1,included_classified,Moon camp auxiliary construction robot,included_classified,true,add
+124-073-640-771-027,US,r2_keep,True,1-1;4-1;4-4,3,4-4,4-4,included_classified,SYSTEM FOR IN SITU RESOURCE UTILIZATION IN EXTRATERRESTRIAL ENVIRONMENTS,included_classified,true,add
+034-211-756-564-96X,US,r2_keep,True,1-3;2-2;2-3;4-5,4,1-3;2-3,,included_classified,Lunar Regolith Sintering: Orbital Directed Energy for Lunar Site Preparation,included_classified,true,add
+182-723-188-429-510,CN,r2_keep,True,1-1,1,,,included_classified,Mars water ice array acquisition system based on lobe heat pipe heating element ,included_classified,true,add_only
+056-643-427-726-590,CN,r2_keep,True,1-2;1-3;2-1;2-4;4-1,5,1-2;2-1;2-4;3-2,1-2;2-1,included_classified,3D printing rheological regulation and printing method for simulating lunar soil,included_classified,true,add+suppress
+103-170-089-356-78X,CN,r2_keep,True,1-2;2-1,2,2-1,1-1;2-1,included_classified,Lunar soil 3D printing method for lunar surface in-situ construction and lunar s,included_classified,true,add+suppress
+149-903-531-189-051,US,r2_keep,True,1-3;2-1;2-2;4-1,4,1-3;2-1;2-2,2-1,included_classified,SYSTEMS AND METHODS FOR IN-SITU REGOLITH AND METAL FUEL REACTIONS FOR ADDITIVE M,included_classified,true,add
+177-864-367-117-000,CN,r2_keep,True,1-3;2-1;2-2;2-4,4,2-4,1-1;2-1,included_classified,In-situ stress test method of 3D printing simulated lunar soil,included_classified,true,add+suppress
+172-390-595-682-825,CN,r2_keep,True,4-1,1,4-1,,included_classified,Lunar soil bag structure for moon base construction,included_classified,true,keep
+132-569-411-464-84X,CN,r2_keep,True,4-1,1,3-2;4-1,1-1;2-4;4-1,included_classified,Mars base construction method and Mars base,included_classified,true,suppress
+046-021-093-098-555,RU,r2_keep,True,1-2;1-3;4-1,3,4-1,2-1;4-4,included_classified,METHOD FOR CONSTRUCTION OF DOME STRUCTURE ON THE MOON,included_classified,true,add+suppress
+073-024-421-109-819,US,r2_keep,True,1-2;1-3;2-1,3,1-1;1-3;2-1,1-2,included_classified,Ink compositions for fabricating objects from regoliths and methods of forming t,included_classified,true,suppress
+134-720-364-544-493,CN,r2_keep,True,1-3;4-1;4-2;4-4,4,4-1,4-4,included_classified,Composite wall structure applied to moon building,included_classified,true,add
+129-255-465-607-615,RU,r2_keep,True,1-1;4-1,2,1-1;4-1,1-1,included_classified,"METHOD FOR MAKING ARTICLES FOR CIVIL AND/OR INDUSTRIAL OBJECTS ON MOON, MARS, AN",included_classified,true,keep
+034-345-624-950-109,CN,r2_keep,True,2-1;2-4;4-1,3,2-1,2-1,included_classified,Microgravity vacuum environment oriented lunar surface in-situ resource 3D print,included_classified,true,add
+110-138-204-883-475,CN,r2_keep,True,1-2,1,1-2;2-1,1-2,included_classified,Preparation method of simulant lunar soil geopolymer material,included_classified,true,suppress
+148-756-629-236-617,CN,r2_keep,True,1-3;3-3;4-1,3,,,included_classified,Lunar soil bag structure in-situ filling and curing equipment for lunar surface ,included_classified,true,add_only
+074-453-584-927-535,CN,r2_keep,True,1-2;2-1;4-1,3,1-2;2-1,1-2;2-1,included_classified,Preparation method and application of magnesium phosphate cement lunar soil conc,included_classified,true,add
+048-671-560-798-655,CN,r2_keep,True,1-3;2-1,2,2-1,2-1,included_classified,Extraterrestrial planet-oriented building material in-situ manufacturing device ,included_classified,true,add
+166-753-917-204-117,US,r2_keep,True,1-1;4-1,2,,1-1;2-1,included_classified,REGOLITH OXYGEN EXTRACTION SYSTEM,included_classified,true,add+suppress
+012-104-259-178-791,RU,r2_keep,True,1-1;1-3;2-1;2-3;3-1;3-3;4-5,7,,1-1;2-4;4-1,included_classified,ROBOTIC COMPLEX FOR UNMANNED ERECTION OF STRUCTURES/SHELTERS ON THE MOON,included_classified,true,add+suppress
+037-752-510-247-711,CA,r2_keep,True,1-1;2-1;2-2;2-4;4-1;4-4,6,1-3;2-1;2-2,2-1,included_classified,"METHOD OF MANUFACTURE OF PRODUCTS FROM REGOLITH, 3D PRINTING METAL RESIDUES AND ",included_classified,true,add+suppress
+161-059-709-074-125,CN,r2_keep,True,2-1;2-4,2,2-1;2-4,1-1;2-1,included_classified,Lunar soil liquid 3D printing method and system for lunar surface in-situ constr,included_classified,true,suppress
+137-444-629-554-621,CN,r2_keep,True,1-1;1-3;2-1;2-2;2-4;4-1,6,2-1,2-1;2-2,included_classified,Lunar surface in-situ manufacturing method based on electron beam melting lunar ,included_classified,true,add
+079-826-215-013-907,US,r2_keep,True,2-1,1,2-2,2-1,included_classified,MOLTEN REGOLITH DISPENSER GUN,included_classified,true,suppress
+112-996-752-185-399,US,r2_keep,True,3-1;4-2;4-3;4-4,4,4-3;4-4,2-4;4-3;4-4,included_classified,Method for assemblying and landing a habitable structure on an extraterrestrial ,included_classified,true,add+suppress
+036-096-288-945-893,CN,r2_keep,True,3-1;4-1,2,,,included_classified,Lunar base construction robot,included_classified,true,add_only
+160-450-456-889-400,CN,r2_keep,True,2-1;2-4,2,2-1,2-1,included_classified,Extrusion type lunar soil additive manufacturing method for lunar surface in-sit,included_classified,true,add
+009-489-822-113-391,CN,r2_keep,True,1-3;3-3;4-1,3,,,included_classified,Lunar soil bag structure continuous filling and curing equipment for lunar surfa,included_classified,true,add_only
+174-314-340-624-111,NL,r2_keep,True,2-1;2-4,2,2-1,2-1,included_classified,METHOD FOR PRINTING SIMULATED LUNAR SOIL MATERIAL BASED ON PHOTOCURING ADDITIVE ,included_classified,true,add
+013-264-903-574-867,CN,r2_keep,True,4-1,1,3-1,3-1,included_classified,Switchable wheel-leg multi-mode lunar rover and operation method,included_classified,true,add+suppress
+183-166-994-280-017,CN,r2_keep,True,1-3;2-1;2-2;4-1,4,1-3;2-1,2-1;2-4,included_classified,Lunar surface environment-oriented high-strength part 3D printing method and dev,included_classified,true,add+suppress
+168-291-035-691-223,CN,r2_keep,True,2-1;4-1;4-4,3,4-1,,included_classified,Lunar crater type manned lunar building structure based on future lunar base and,included_classified,true,add
+005-423-342-957-627,CN,r2_keep,True,2-1;2-4;4-1,3,2-1,2-1,included_classified,Simulated lunar soil material printing method based on photocuring additive manu,included_classified,true,add
+096-687-856-616-184,CN,r2_keep,True,1-3;4-1;4-4,3,3-3;4-1;4-4,2-4,included_classified,Lunar surface building weaving construction method and system based on descendin,included_classified,true,add+suppress
+004-192-864-658-286,CN,r2_keep,True,2-1;2-4;4-1,3,2-1;2-4;3-3,2-1;2-4,included_classified,Biomimetic spider-based lunar surface reconfigurable printing device and lunar s,included_classified,true,add+suppress
+135-685-354-980-983,CN,r2_keep,True,1-3;2-3;4-1,3,,2-2,included_classified,Mould-stripping-free microwave sintering lifting platform for lunar base and con,included_classified,true,add+suppress
+155-156-267-848-345,CN,r2_keep,True,1-1;2-4;3-1;4-1,4,2-4,3-1,included_classified,Lunar rover for assisting in constructing lunar base and collecting lunar rock s,included_classified,true,add
+168-953-807-080-044,CN,r2_keep,True,2-3;4-1;4-5,3,2-3,4-1,included_classified,Assembly type lunar heat constant-temperature system for lunar habitat,included_classified,true,add
+001-365-377-055-297,WO,r2_keep,True,2-1;2-4,2,2-4,,included_classified,LIGHTWEIGHT AND COMPACT LUNAR REGOLITH SAMPLING SYSTEM MOUNTABLE ON ROVER,included_classified,true,add
+160-484-724-276-658,CN,r2_keep,True,1-2;2-1,2,1-2;2-1,1-2;2-1,included_classified,Lunar soil concrete and preparation method thereof,included_classified,true,keep
+016-391-930-515-863,CN,r2_keep,True,2-1;2-2;2-4,3,2-1;2-2;2-4,1-2;2-1,included_classified,Efficient 3D printing device and method for preparing high-strength complex comp,included_classified,true,suppress
+083-458-058-144-695,WO,r2_keep,True,1-1;4-1,2,,1-1,included_classified,LUNAR REGOLITH PROCESSING SYSTEM FOR MINING AND BENEFICIATION,included_classified,true,add
+165-613-043-078-496,US,r2_keep,True,1-2;4-1;4-4,3,4-1;4-2;4-4,1-2;4-4,included_classified,Method for producing Regishell inflatable environment,included_classified,true,suppress
+167-251-678-486-458,CN,r2_keep,True,1-2;1-3;4-1;4-2;4-4,5,1-2;4-1,1-2,included_classified,Lunar surface masking body structure based on lunar soil concrete spraying and c,included_classified,true,add
+080-835-290-708-311,RU,r2_keep,True,1-2;4-1;4-4,3,4-1,1-2;4-4,included_classified,DOME STRUCTURE ON MOON,included_classified,true,keep
+077-747-526-233-538,CN,r2_keep,True,1-3;2-1;2-4,3,2-1;2-4,1-1;2-1,included_classified,3D printing and mold pressing composite forming method for lunar soil component,included_classified,true,add+suppress
+004-384-373-936-09X,CN,r2_keep,True,1-3;4-1;4-4,3,4-1;4-4,4-2;4-4,included_classified,Hemispherical inflatable unfolding moon building protection structure filled wit,included_classified,true,add+suppress
+060-051-985-748-562,CN,r2_keep,True,2-1;2-4,2,2-1;2-4,2-1;2-4,included_classified,Method for selecting excellent lunar soil heating temperature during melting add,included_classified,true,keep
+000-050-192-239-695,US,r2_keep,True,4-1;4-2;4-4;4-5,4,4-4;4-5,4-1,included_classified,Spacecraft for interplanetary/lunar travel,included_classified,true,add
+194-830-686-858-560,US,r2_keep,True,4-1;4-2;4-4,3,4-2,4-2,included_classified,ARMOR -ARchitectural Melanin-Operated Radiation shielding for flexible structure,included_classified,true,add
+010-067-837-229-819,CN,r2_keep,True,1-3;2-3;2-4,3,2-4,,included_classified,Lunar brick making base based on lunar soil and lunar soil brick in-situ detecti,included_classified,true,add
+118-139-721-809-981,CN,r2_keep,True,1-3;4-1;4-4,3,3-3;4-1,4-4,included_classified,Modularized rigid-flexible mixed structure construction method for lunar base an,included_classified,true,add+suppress
+180-843-417-044-379,CN,r2_keep,True,1-1;1-3;2-4,3,1-3;2-4,,included_classified,Moon polar region water-ice-containing simulated lunar soil and preparation meth,included_classified,true,add
+161-464-221-483-282,CN,r2_keep,True,1-3;2-1;2-3;4-1,4,2-1,2-1,included_classified,Lunar soil additive manufacturing forming method and device based on lunar surfa,included_classified,true,add
+038-116-312-465-733,CN,r2_keep,True,1-2,1,1-2,1-2,included_classified,Sulfur concrete with sublimation corrosion resistance and preparation method the,included_classified,true,keep
+092-158-603-331-325,US,r2_keep,True,2-1;2-4,2,2-1;2-4,2-1,included_classified,Manufacturing sensors using celestial body regolith,included_classified,true,keep
+152-092-286-033-249,CN,r2_keep,True,1-2;3-1,2,3-1,3-1,included_classified,Lunar rover path planning method based on depth deterministic gradient strategy,included_classified,true,add
+006-915-255-521-021,CN,r2_keep,True,1-3;4-1;4-2;4-4,4,4-1;4-4,4-1;4-4,included_classified,Self-stiffening inflatable dwelling cabin for lunar surface construction,included_classified,true,add
+035-909-461-720-014,CN,r2_keep,True,4-1;4-2;4-4,3,3-2;4-1,,included_classified,"Lunar surface masking structure, low-cost construction, operation and maintenanc",included_classified,true,add+suppress
+130-664-747-144-252,US,r2_keep,True,1-1;1-2;4-1;4-3,4,,,included_classified,MINERAL MINING APPARATUS,included_classified,true,add_only
+191-157-552-649-45X,CN,r2_keep,True,2-1;2-3;2-4,3,2-1;2-3;3-3,2-1,included_classified,Solar 3D printing construction vehicle,included_classified,true,add+suppress
+084-114-906-765-011,WO,r2_keep,True,2-4,1,2-4,4-3,included_classified,SYSTEMS AND METHODS OF MATTER EXTRACTION FROM LUNAR SURFACE,included_classified,true,suppress
+064-541-144-178-494,CN,r2_keep,True,1-2;2-1;2-4,3,2-4,3-1,included_classified,In-situ dynamic observation method for dust field of wheels of lunar rover,included_classified,true,add+suppress
+123-086-222-269-145,CN,r2_keep,True,4-1;4-4,2,4-1,4-4,included_classified,Movable inflatable self-balancing moon building structure,included_classified,true,keep
+146-523-009-748-03X,CN,r2_keep,True,2-1;2-4;4-1,3,2-1;2-4;3-3,2-1,included_classified,Moon building 3D printing equipment,included_classified,true,add+suppress
+096-487-039-064-280,CN,r2_keep,True,1-1;1-2;4-3,3,4-3,1-2,included_classified,Moon surface soil solidification device,included_classified,true,add
+049-923-631-307-636,US,r2_keep,True,4-3;4-4,2,,4-4,included_classified,Inflatable wing flight vehicle,included_classified,true,add
+119-888-337-012-374,US,r2_keep,True,1-1;1-3,2,,1-1,included_classified,HEATING AND DEPOSITION FOR BENEFICIATION OF LUNAR REGOLITH,included_classified,true,add
+124-303-561-692-225,CN,r2_keep,True,1-3;2-1;2-3;2-4,4,2-1;2-3,2-1,included_classified,3D printing forming device and method for lunar soil component,included_classified,true,add
+075-067-497-779-248,CN,r2_keep,True,2-4,1,2-4,,included_classified,Lunar soil water ice generation and equilibrium state measurement device and met,included_classified,true,keep
+163-042-872-144-367,CN,r2_keep,True,2-1,1,2-1,2-1,included_classified,Lunar soil 3D printing device and method based on electrostatic dust collection,included_classified,true,keep
+043-654-664-857-035,CN,r2_keep,True,2-1;2-2;2-4,3,2-2;2-4,2-1,included_classified,Control method and system based on mobile lunar surface 3D printing robot and st,included_classified,true,keep
+080-235-443-977-880,CN,r2_keep,True,1-2;2-1;2-4,3,2-1,2-1,included_classified,Real-time reducing 3D printing head suitable for lunar surface in-situ construct,included_classified,true,add
+138-534-285-399-159,CN,r2_keep,True,1-1;1-3;2-1;2-2;4-1,5,2-1,2-4,included_classified,Construction method of lunar base outer shell layer,included_classified,true,add+suppress
+195-841-702-516-377,CN,r2_keep,True,1-3;2-1,2,2-1,2-1,included_classified,"Lunar soil 3D printing device based on electrostatic collecting, transporting an",included_classified,true,add
+160-101-694-693-889,CN,r2_keep,True,1-1;2-4,2,2-4,,included_classified,Mars water ice distribution detection method based on SHARAD radar,included_classified,true,add
+162-812-343-325-367,CN,r2_keep,True,1-1;2-4,2,2-4,,included_classified,Deep water ice sampling detection device for lunar polar region,included_classified,true,add
+147-163-704-802-691,CN,r2_keep,True,4-1,1,3-1,3-1,included_classified,Four-caterpillar-band type lunar rover device capable of assisting operation of ,included_classified,true,add+suppress
+001-869-679-642-621,CN,r2_keep,True,2-3;4-1,2,,2-2;2-4,included_classified,Moon-based landing platform and construction method thereof,included_classified,true,add+suppress
+082-478-261-243-172,CN,r2_keep,True,1-2;1-3;4-1;4-2;4-4,5,,2-4;4-2;4-4,included_classified,Inflatable tamping type protective structure in lunar environment and constructi,included_classified,true,add+suppress
+029-316-137-364-969,US,r2_keep,True,4-1;4-2;4-4,3,4-1;4-2,4-1;4-4,included_classified,INFLATABLE HABITAT FOR PERMANENT HUMAN SETTLEMENT,included_classified,true,keep
+085-536-809-046-433,CN,r2_keep,True,1-3,1,1-1,,included_classified,Fe-containing lunar soil sintered block and low-temperature carbon thermal reduc,included_classified,true,add+suppress
+105-204-753-751-127,CN,r2_keep,True,1-2;1-3;4-1,3,1-2,1-2;1-3,included_classified,Polypropylene fiber reinforced lunar soil simulating geopolymer material and pre,included_classified,true,add
+067-413-247-484-040,CN,r2_keep,True,1-2;1-3;2-1;2-2,4,1-3;2-1,1-2;2-1;2-4,included_classified,Technical method for improving compactness of lunar soil 3D printing energy stor,included_classified,true,add+suppress
+131-578-433-073-899,US,r2_keep,True,4-1;4-3;4-4;4-5,4,4-4;4-5,2-4;4-1,included_classified,SPACECRAFT-MODULE HABITATS AND BASES,included_classified,true,add+suppress
+005-724-271-510-64X,CN,r2_keep,True,1-2;1-3;2-1;4-1;4-4,5,3-3;4-1,1-2;2-1,included_classified,Honeycomb-shaped manned modular lunar cabin and construction method,included_classified,true,add+suppress
+157-386-109-733-565,CN,r2_keep,True,2-1,1,,2-1;2-4;3-1,included_classified,Mars visible light target characteristic accurate simulation method based on 3D ,included_classified,true,suppress
+173-877-838-011-243,CN,r2_keep,True,4-1,1,,4-4,included_classified,Deformable wheel with non-inflatable load bearing and tread heating for lunar an,included_classified,true,add+suppress
+107-466-639-838-133,US,r2_keep,True,1-1;2-1;2-4,3,2-1,2-1,included_classified,In-situ 3D Greenland Anorthosite manufacturing using Digital Light Processing (D,included_classified,true,add
+015-859-559-341-188,CN,r2_keep,True,1-3;2-1,2,1-3;2-1,1-3;2-1,included_classified,Three-dimensional photocuring 3D printing high-density high-strength lunar soil ,included_classified,true,keep
+140-065-171-690-864,CN,r2_keep,True,3-1;4-1;4-4,3,4-1;4-4,2-4;3-1,included_classified,Lunar surface building construction method and system for descending and recycli,included_classified,true,suppress
+184-939-714-567-338,CN,r2_keep,True,1-3;2-3;3-3,3,2-2,2-2,included_classified,Microwave sintering automation equipment suitable for lunar surface hardening,included_classified,true,add+suppress
+097-064-820-846-944,CN,r2_keep,True,1-2;4-1,2,,1-2;2-4;4-1,included_classified,Polymer building material and reuse method,included_classified,true,suppress
+001-414-950-255-16X,CN,r2_keep,True,1-3;2-1;2-3,3,2-1,2-3,included_classified,Solar lunar soil sintering and curing equipment and method suitable for lunar su,included_classified,true,add
+006-779-170-051-442,CN,r2_keep,True,2-4,1,2-4,2-4,included_classified,Moon permanent shadow region ice-soil substance formation evolution mechanism re,included_classified,true,keep
+079-537-838-975-052,CN,r2_keep,True,1-3;2-3,2,1-3;2-1,2-3,included_classified,Solar sintering lunar soil system based on inclined plane material supplementing,included_classified,true,suppress
+184-110-278-832-224,CN,r2_keep,True,4-1;4-4,2,3-3;4-1,,included_classified,Moon lava pipe building structure system based on assembly type module and const,included_classified,true,add+suppress
+005-851-494-664-867,WO,r2_keep,True,2-1;2-2,2,2-1;2-2,2-1,included_classified,"SOLAR ENERGY-ASSISTED COLD SPRAY ADDITIVE MANUFACTURING, COATING, AND REPAIR SYS",included_classified,true,keep
+155-636-289-114-118,CN,r2_keep,True,1-2;1-3,2,,1-2,included_classified,Moon brick based on xerogel and in-situ preparation device and method thereof,included_classified,true,add
+124-889-076-117-746,CN,r2_keep,True,1-3;2-3,2,2-1,,included_classified,Lunar soil sintering forming device based on solar energy,included_classified,true,add+suppress
+177-965-111-106-044,WO,r2_keep,True,3-3;4-1,2,,2-4,included_classified,MULTI-PART SYSTEM TO ACCELERATE BUILDING OF PERMANENT COLONIES ON THE MOON AND M,included_classified,true,add+suppress
+072-879-166-598-260,CN,r2_keep,True,4-4,1,,,included_classified,Mars surface take-off deployment device of four-rotor type Mars aircraft,included_classified,true,add_only
+151-457-957-350-265,CN,r2_keep,False,,0,,,domain_external,Moon global positioning constellation design method based on earth-moon space DR,domain_external_active,true,keep
+025-484-478-070-421,CN,r2_keep,False,,0,,2-4,domain_external,Integrated antenna shell for Mars exploration landing rover and preparation meth,domain_external_active,true,suppress_all
+003-473-789-662-019,WO,r2_keep,True,4-1;4-4;4-5,3,4-4;4-5,4-1,included_classified,SYSTEM FOR CREATING ARTIFICIAL GRAVITY IN A HABITATIONAL MODULE AND DEVICE FOR I,included_classified,true,keep
+195-447-449-263-875,CN,r2_keep,True,4-1;4-4,2,4-1;4-2,4-4,included_classified,Lunar cabin structure system combining mechanical unfolding and inflatable unfol,included_classified,true,suppress
+012-098-918-229-807,US,r2_keep,True,2-1;2-2;2-4;4-1,4,2-1;2-4;3-3,,included_classified,"System and method for deploying, harvesting, and in-situ three-dimensional print",included_classified,true,add+suppress
+175-515-910-707-478,CN,r2_keep,True,1-3;2-1;2-4,3,2-1;2-4,2-1,included_classified,Additive manufacturing equipment and method for multi-component lunar soil mater,included_classified,true,add
+171-236-929-547-219,CN,r2_keep,True,2-1;2-4,2,2-4,2-1,included_classified,Lunar soil melting phase change and 3D printing process analysis platform and an,included_classified,true,keep
+157-080-026-864-525,CN,r2_keep,True,4-1;4-4,2,,,included_classified,Lunar surface masking body based on assembly type folding and unfolding steel fr,included_classified,true,add_only
+075-188-183-555-12X,CN,r2_keep,True,1-3;2-3;4-1,3,,2-2,included_classified,Microwave sintering pile composite lunar foundation for lunar surface constructi,included_classified,true,add+suppress
+166-168-140-974-00X,CN,r2_keep,True,1-2;2-1,2,1-2;2-1,2-1,included_classified,Preparation method of Mars weathered layer simulant-based inorganic polymer and ,included_classified,true,keep
+083-922-840-729-294,US,r2_keep,True,1-1,1,,,included_classified,Membrane-based processing for ambient water-group species captured on the Moon a,included_classified,true,add_only
+108-017-237-072-190,CN,r2_keep,True,4-1;4-2,2,4-1;4-2,,included_classified,General lunar surface equipment protection device based on in-situ resources,included_classified,true,keep
+086-905-059-910-284,CN,r2_keep,True,1-1;4-1,2,,3-1,included_classified,Movable lunar resource mining and warehousing device,included_classified,true,add+suppress
+066-700-964-871-911,CN,r2_keep,True,4-1;4-2;4-4,3,4-4,4-4,included_classified,Inflatable unfolding type semi-rigid lunar surface sealed cabin,included_classified,true,add
+066-830-082-828-984,CA,r2_keep,True,1-2;2-1;4-1;4-2,4,,1-2,included_classified,ELECTRONIC AND MECHANICAL CONSTRUCTION BUILDING BRICK,included_classified,true,add
+106-316-154-189-251,CN,r2_keep,True,2-1;2-4,2,2-1,2-1,included_classified,Additive manufacturing equipment and method under lunar surface environment,included_classified,true,add
+102-985-417-307-057,CN,r2_keep,True,2-4,1,2-4,,included_classified,Linear cutting tunneling sampler for collecting lunar soil water ice,included_classified,true,keep
+190-957-408-605-072,CN,r2_keep,True,4-1;4-4,2,,,included_classified,Mars four-rotor aircraft and slideway type inverted releasing and deploying devi,included_classified,true,add_only
+011-118-438-213-944,CN,r2_keep,True,1-1,1,,2-4,included_classified,Lunar surface environment simulation device for simulating lunar surface constru,included_classified,true,add+suppress
+060-418-175-333-208,CN,r2_keep,True,2-4,1,2-4,,included_classified,Lunar dust charging centralized control system for multi-irradiation-source syst,included_classified,true,keep
+016-714-216-957-473,CN,r2_keep,True,1-2;4-1,2,3-1,1-2;3-1,included_classified,Loading lunar rover motion system and electromechanical hydraulic control simula,included_classified,true,add+suppress
+197-221-418-141-040,EP,r2_keep,True,4-1,1,4-1,4-1,included_classified,EXTRAPLANETARY HEAT EXCHANGER,included_classified,true,keep
+122-683-403-345-652,CN,r2_keep,True,1-1;2-1;2-4,3,2-1,2-1,included_classified,Automatic 3D printing equipment used for surface processing for shell of moon la,included_classified,true,add
+006-899-749-833-650,CN,r2_keep,True,3-1;4-1;4-4,3,3-1,,included_classified,Gravitational field effect solving method and system oriented to lunar resource ,included_classified,true,add
+144-608-987-663-096,CN,r2_keep,True,2-1;2-2;2-4,3,2-1,2-2,included_classified,Low-energy-consumption simulated lunar soil solidification forming device and me,included_classified,true,add
+030-146-224-478-987,CN,r2_keep,True,2-1;2-4,2,2-4,3-1,included_classified,Lunar rover detection area rock traceability method for millimeter-level scene r,included_classified,true,add+suppress
+127-975-790-471-179,CN,r2_keep,True,4-4,1,,4-4,included_classified,Lunar environment experience training clothes,included_classified,true,keep
+106-749-491-160-533,CN,r2_keep,True,1-3;4-1;4-2;4-4,4,4-1,4-4,included_classified,Inflatable unfolding stiffened lunar soil filling brick with foldable rigid shel,included_classified,true,add
+170-222-533-687-879,RU,r2_keep,True,1-3;4-1,2,,2-4,included_classified,ENGINEERING MOON MACHINE AND METHOD FOR ITS OPERATION,included_classified,true,add+suppress
+138-925-636-822-632,CN,r2_keep,True,2-4;3-1,2,2-4,,included_classified,Lunar large-depth fidelity coring prospecting robot system,included_classified,true,add
+195-001-827-236-609,CN,r2_keep,True,1-3;2-4;4-1,3,2-4,,included_classified,Shovel digging type lunar soil water ice diving and exploring mechanism and meth,included_classified,true,add
+133-696-321-213-762,CN,r2_keep,True,1-3;2-4,2,2-4,1-1,included_classified,Preparation method of sampling simulated lunar soil,included_classified,true,add+suppress
+023-647-875-256-327,WO,r2_keep,True,1-1,1,1-1,,included_classified,AUTOMATED PARTICLE SEPARATION EXTRACTED FROM SOIL INCLUDING REGOLITH ASSOCIATED ,included_classified,true,keep
+007-756-401-016-746,WO,r2_keep,True,1-1;4-1;4-3,3,,2-4,included_classified,SYSTEMS AND METHODS FOR RADIANT GAS DYNAMIC MINING OF PERMAFROST FOR PROPELLANT ,included_classified,true,add+suppress
+181-793-099-235-420,CN,r2_keep,True,4-1;4-2,2,4-1,,included_classified,Closed base,included_classified,true,add
+079-962-328-001-343,CN,r2_keep,True,1-3;4-1;4-4,3,4-1;4-2,,included_classified,Moon surface type manned moon building structure based on future moon base and c,included_classified,true,add+suppress
+184-820-145-210-022,CN,r2_keep,True,2-1;2-2;2-4,3,1-3;2-1;2-2,1-3;2-1,included_classified,Additive manufacturing method of titanium-based composite material,included_classified,true,add+suppress
+173-430-488-072-220,CN,r2_keep,True,4-1;4-4,2,,,included_classified,Four-rotor type Mars aircraft and upright unfolding and platform take-off deploy,included_classified,true,add_only
+158-848-533-391-568,CN,r2_keep,True,1-1,1,1-1,,included_classified,System and method for stage treatment and comprehensive utilization of lunar soi,included_classified,true,keep
+085-771-107-874-496,CN,r2_keep,True,4-1;4-2;4-4,3,4-4,4-4,included_classified,"Rigidizable flexible sealed cabin capable of being automatically inflated, unfol",included_classified,true,add
+107-896-431-775-452,CN,r2_keep,True,4-1;4-2;4-5,3,4-1,4-2,included_classified,Lunar surface base protection structure,included_classified,true,add
+074-028-999-121-923,CN,r2_keep,True,4-1;4-4,2,4-1;4-4,4-4,included_classified,Connecting structure for inflatable unfolding cabin of lunar building,included_classified,true,keep
+172-465-824-822-654,RU,r2_keep,False,,0,4-5,,domain_external,METHOD OF LOCAL INCREASE OF OPPOSITE THERMAL RADIATION OF ATMOSPHERE OF MARS,false_match,false,
+166-322-412-269-228,CN,r2_keep,True,2-1;2-4,2,1-1,,included_classified,Lunar soil screening-electrostatic conveying load device and method for lunar su,included_classified,true,add+suppress
+057-126-995-231-247,CN,r2_keep,True,1-1;2-4,2,2-4,,included_classified,Moon permanent shadow region water molecule adsorption and desorption experiment,included_classified,true,add
+049-498-491-931-60X,CN,r2_keep,True,4-1;4-4,2,3-3;4-1,,included_classified,"Lunar surface base interlayer shell structure, lunar surface base and constructi",included_classified,true,add+suppress
+076-002-904-651-655,CN,r2_keep,True,1-1;1-3;2-3,3,2-3,,included_classified,Permanent water resource mining base system for permanent shadow area of moon,included_classified,true,add
+151-101-353-478-56X,CN,r2_keep,True,1-3;2-3,2,2-1,,included_classified,Lunar soil in-situ forming device and method,included_classified,true,add+suppress
+090-624-178-296-68X,US,r2_keep,True,4-1,1,,4-1,included_classified,"Submerged Human Habitat System for Low-Gravity, Thin-Atmosphere Planetary Surfac",included_classified,true,keep
+198-264-567-297-037,CN,r2_keep,True,1-3;2-1,2,2-1,2-1,included_classified,Porous lunar soil insulating brick and preparation method thereof,included_classified,true,add
+123-068-356-232-154,CN,r2_keep,True,1-3,1,,1-1;2-4,included_classified,Preparation method of highland simulated lunar soil,included_classified,true,add+suppress
+081-673-046-896-557,CN,r2_keep,True,4-1;4-4,2,4-1;4-4,4-4,included_classified,Hexagonal inflatable expansion building module applied to moon building,included_classified,true,keep
+191-087-911-308-77X,CN,r2_keep,True,1-1;1-2;2-1;2-4;3-3,5,2-4,3-1,included_classified,Simulated lunar soil hardness visual detection system based on track image and m,included_classified,true,add+suppress
+009-402-783-206-59X,CN,r2_keep,True,1-1;4-1,2,4-4,2-4,included_classified,Mars tire with shape memory alloy lattice structure,included_classified,true,add+suppress
+129-906-991-787-544,CN,r2_keep,True,1-2;1-3;4-1,3,1-2,1-2,included_classified,High-impact-resistance building material suitable for lunar environment and used,included_classified,true,add
+091-032-739-059-332,CN,r2_keep,True,4-1;4-4,2,4-4,4-4,included_classified,Inflatable expansion type sealed cabin with lunar soil filling cabin wall,included_classified,true,add
+188-481-953-181-073,CN,r2_keep,True,1-3;2-3;2-4;4-1,4,2-4,2-2;4-3,included_classified,Moon road building detection device using microwave sintering lunar soil,included_classified,true,add+suppress
+179-349-720-436-00X,CN,r2_keep,True,1-1;2-4;3-3,3,2-4,,included_classified,Automatic preparation device for simulated lunar soil,included_classified,true,add
+139-177-703-657-901,US,r2_keep,True,4-1;4-5,2,4-3,4-2,included_classified,SINGLE-STAGE CRAFT AND METHOD FOR INTERPLANETARY SPACE TRAVEL,included_classified,true,add+suppress
+059-668-529-951-06X,CN,r2_keep,True,1-3;2-4,2,2-4,,included_classified,Oblique-growth highland simulated lunar soil and preparation method thereof,included_classified,true,add
+018-702-484-520-07X,WO,r2_keep,True,1-1;2-4,2,2-4,,included_classified,MULTI-STAGE LARGE-DEPTH DRILLING SYSTEM AND METHOD FOR MOON-BASED FIDELITY CORIN,included_classified,true,add
+099-008-939-983-694,CN,r2_keep,True,1-1;2-4,2,2-4,,included_classified,Water-containing simulated lunar soil preparation and water content determinatio,included_classified,true,add
+081-144-714-095-090,CN,r2_keep,True,2-4,1,2-4,,included_classified,Station conversion driving mechanism for water ice content detection of lunar so,included_classified,true,keep
+077-894-938-560-420,CN,r2_keep,True,1-3;2-3;3-1;4-3,4,4-3,2-3;4-3,included_classified,Solar sintering hardening robot for lunar road and working method of solar sinte,included_classified,true,add
+067-000-203-347-33X,CN,r2_keep,True,1-3;2-3,2,1-3,,included_classified,Lunar soil brick and preparation method thereof,included_classified,true,add
+171-453-562-711-705,CN,r2_keep,True,4-4,1,4-4,4-4,included_classified,Modular extraterrestrial celestial body space capsule structure with high foldin,included_classified,true,keep
+049-118-572-546-124,KR,r2_keep,True,1-1,1,,,included_classified,RCD RCD RCD halp moon casing steel pipe and RCD half-moon casing steel pipe cons,included_classified,true,add_only
+020-567-583-872-209,CN,r2_keep,True,1-3;2-1;2-4,3,2-4;3-2,2-1;2-4,included_classified,Physical reconstruction method for lunar surface topography,included_classified,true,add+suppress
+189-255-942-818-076,CN,r2_keep,True,1-3,1,2-1,,included_classified,"Reconfigurable lunar soil module sintering mold, system and method",included_classified,true,add+suppress
+146-133-991-240-033,CN,r2_keep,True,2-1;2-4,2,2-1;3-3,,included_classified,Printing device of lunar surface structure and printing method thereof,included_classified,true,add+suppress
+176-315-007-150-685,CN,r2_keep,True,1-1;1-3;2-3;2-4,4,2-4,,included_classified,Testing device and testing method for microwave moving sintering lunar soil in v,included_classified,true,add
+005-260-563-678-038,CN,r2_keep,True,1-3;4-1;4-4,3,3-3;4-1,,included_classified,Portable lunar surface base shell structure and rapid construction method thereo,included_classified,true,add+suppress
+178-612-758-891-234,CN,r2_keep,True,1-1;4-1;4-4,3,3-3;4-1,,included_classified,"Lunar surface base shell structure, space cabin and construction method of space",included_classified,true,add+suppress
+078-204-692-592-515,AU,r2_keep,True,2-3,1,2-3,,included_classified,SUPPLEMENTAL SOLAR CONCENTRATOR FOR THE HEATING OF PARTICLES,included_classified,true,keep
+166-107-187-715-903,CN,r2_keep,True,1-3;4-1,2,2-1,,included_classified,Lunar soil in-situ forming device and method based on alkali excitation technolo,included_classified,true,add+suppress
+177-629-798-626-069,CN,r2_keep,True,1-3;2-1;2-2,3,2-1,2-3,included_classified,Method and device suitable for laser sintering forming of simulant lunar soil,included_classified,true,add+suppress
+191-787-736-120-266,US,r2_keep,True,4-1;4-2;4-4;4-5,4,4-1;4-4,2-4;3-1;4-4,included_classified,"SYSTEMS AND METHODS FOR LUNAR UTILITY WITH NAVIGATION, ADVANCED REMOTE SENSING, ",included_classified,true,add+suppress
+112-579-299-914-33X,CN,r2_keep,True,1-1;2-4,2,2-4,,included_classified,Lunar surface in-situ resource exploration device and method powered by radiatio,included_classified,true,add
+151-868-000-857-162,CN,r2_keep,True,1-3;4-1;4-4,3,4-1;4-2,,included_classified,Annular base unit module and modular annular lunar surface base built by using s,included_classified,true,add+suppress
+056-349-720-154-117,CN,r2_keep,True,4-4,1,,4-2;4-4,included_classified,Lunar surface residential cabin body protection structure,included_classified,true,suppress
+075-494-905-642-15X,CN,r2_keep,True,1-2;2-4;4-1,3,1-2;2-4,1-2,included_classified,Solidified simulated lunar soil based on biological carbonized magnesium chlorid,included_classified,true,add
+003-574-430-131-601,WO,r2_keep,True,1-3;4-4,2,,1-3,included_classified,COMPOSITE SELF-HEALING SYSTEM,included_classified,true,add
+011-155-786-763-021,CN,r2_keep,True,4-1;4-5,2,4-1,,included_classified,Survival system of moon-based extreme environment,included_classified,true,add
+137-656-964-945-800,CN,r2_keep,True,1-3;2-1,2,1-1,1-1,included_classified,Lunar soil component and particle size grading separation equipment and method,included_classified,true,add+suppress
+137-681-519-806-081,CN,r2_keep,True,1-3;2-4,2,2-4,1-3,included_classified,Simplified artificial lunar soil with high-temperature fluidity similar to that ,included_classified,true,keep
+066-780-743-823-740,CN,r2_keep,True,1-2;1-3,2,,1-1,included_classified,Resin transfer molding method for lunar soil building blocks,included_classified,true,add+suppress
+108-905-245-900-975,CN,r2_keep,True,1-2;4-1,2,1-2,2-4,included_classified,Lunar soil high-precision simulation and preparation method for building materia,included_classified,true,add+suppress
+074-973-932-782-336,WO,r2_keep,True,1-1;1-2;2-1;2-4,4,2-1;2-4,1-2;2-1,included_classified,METHODS AND SYSTEMS FOR 3D PRINTING OF OBJECTS,included_classified,true,add
+188-347-823-894-115,CN,r2_keep,True,2-1,1,2-1,2-1,included_classified,Preparation method and application of silylene-based composite structure materia,included_classified,true,keep
+051-205-758-133-659,CN,r2_keep,True,2-3;4-1;4-5,3,2-3,,included_classified,Moon base energy supply system and method based on compressed carbon dioxide ene,included_classified,true,add
+167-228-745-840-731,CN,r2_keep,True,2-4;4-1,2,2-4,,included_classified,Simulated lunar soil for engineering and preparation process thereof,included_classified,true,add
+110-916-954-275-813,CN,r2_keep,True,4-4,1,,4-4,included_classified,Unmanned aerial vehicle based on distributed power inflatable rotors,included_classified,true,keep
+015-633-628-469-264,CN,r2_keep,True,1-1;1-2;2-1,3,1-2,1-2;2-1,included_classified,Supergravity centrifugal 3D printed lunar soil concrete and preparation method t,included_classified,true,add
+140-261-046-568-577,CN,r2_keep,False,,0,,,domain_external,Full-cycle manned Mars detection method based on reusable aircraft,domain_external_active,true,keep
+159-128-780-342-043,CN,r2_keep,True,4-1,1,4-1,,included_classified,Self-adaptive expansion type moon building based on automatic identification of ,included_classified,true,keep
+027-514-775-548-839,CN,r2_keep,True,2-1;2-4,2,2-1;2-4,2-1,included_classified,Light-weight flexible extrusion device and method for rapid manufacturing of lun,included_classified,true,keep
+136-279-744-915-493,CN,r2_keep,True,2-4,1,2-4;4-5,2-4,included_classified,Method for improving sludge through well point vibration pressing and drying,included_classified,true,suppress
+087-102-965-168-533,US,r2_keep,True,1-1;1-3;2-3;4-3;4-4,5,1-1;1-3;4-3,,included_classified,System for constructing building material from lunar soil and associated method,included_classified,true,add
+161-442-053-213-082,CN,r2_keep,True,1-3;2-1;2-3;2-4,4,2-1;2-4,2-3,included_classified,Lunar soil solar sintering forming system and method based on optical fiber poly,included_classified,true,add
+047-063-182-289-275,CN,r2_keep,True,1-2;1-3,2,1-2;4-3,,included_classified,Lunar soil-based carbon nanotube brick as well as preparation method and applica,included_classified,true,add+suppress
+080-018-625-663-304,CN,r2_keep,True,2-4,1,2-4,,included_classified,Preparation method of water-containing simulated lunar soil profile sample,included_classified,true,keep
+046-745-194-726-462,CN,r2_keep,True,3-1,1,,,included_classified,Modular robot for extraterrestrial planet ground base construction,included_classified,true,add_only
+163-098-287-739-733,CN,r2_keep,True,2-4,1,2-4,,included_classified,Full-electrostatic miniaturized scanning electron microscope lens suitable for l,included_classified,true,keep
+155-891-808-668-189,US,r2_keep,True,1-3;2-2;2-3,3,1-3;2-2,2-2,included_classified,MOLD RELEASE OF MICROWAVE SINTERED LUNAR REGOLITH,included_classified,true,add
+091-492-537-700-969,CN,r2_keep,True,2-4;4-1,2,1-1;2-4,1-1,included_classified,Bucket wheel type lunar surface unmanned excavating vehicle,included_classified,true,add+suppress
+094-464-280-728-034,CN,r2_keep,True,4-1,1,3-1;4-1,,included_classified,Extreme landform movable building module applied to lunar lava duct,included_classified,true,suppress
+085-240-784-217-503,CN,r2_keep,True,1-2,1,1-2,1-2,included_classified,Solid-waste-based fluid-state solidified soil and preparation method thereof,included_classified,true,keep
+179-343-020-521-708,CN,r2_keep,True,1-1;2-4,2,1-1;2-4,2-4,included_classified,Vacuum pumping method of lunar soil water ice simulation device under working co,included_classified,true,keep
+057-890-401-474-182,CN,r2_keep,True,2-1,1,2-1,,included_classified,Electrostatic coaxial powder feeding device and method for lunar soil,included_classified,true,keep
+064-563-675-640-606,CN,r2_keep,True,4-1;4-4,2,3-3;4-1,,included_classified,Lunar surface base shell structure and space cabin,included_classified,true,add+suppress
+088-153-352-207-516,CN,r2_keep,True,3-1;4-1,2,,4-4,included_classified,Movable operation spherical robot for moon base construction,included_classified,true,add+suppress
+057-104-683-891-53X,CN,r2_keep,True,2-1,1,2-1,2-1,included_classified,Multi-material surface exposure 3D printing method for lattice structure capacit,included_classified,true,keep
+126-999-801-681-818,CN,r2_keep,True,1-2,1,1-2,1-2;2-4,included_classified,Special cementing material for lunar soil in-situ ultralow-temperature curing an,included_classified,true,suppress
+049-959-863-398-164,CN,r2_keep,True,1-3;2-4,2,2-4,,included_classified,Magnetic-sensitive simulant lunar soil preparation method,included_classified,true,add
+138-229-002-501-571,CN,r2_keep,True,1-1;3-1,2,3-1,1-1,included_classified,Moon surface mechanical arm excavation control system and method,included_classified,true,keep
+005-782-477-405-912,CN,r2_keep,True,1-3;2-2,2,,2-3,included_classified,Iron-rich glass spherical simulated lunar soil and preparation method thereof,included_classified,true,add+suppress
+164-969-593-353-262,CN,r2_keep,True,4-1,1,4-1;4-2,,included_classified,Closed enclosure building built by biological circulation unit bodies and techno,included_classified,true,suppress
+022-325-170-462-35X,CN,r2_keep,True,1-3;4-1,2,,,included_classified,Composite function end tool suitable for lunar surface construction and explorat,included_classified,true,add_only
+157-524-481-824-300,CN,r2_keep,True,1-3;2-2,2,1-3,1-3,included_classified,High-strength lunar soil block composite material and preparation method thereof,included_classified,true,add
+148-191-134-992-722,CN,r2_keep,True,1-1,1,2-4,,included_classified,Star soil water ice in-situ quantitative analysis system and method,included_classified,true,add+suppress
+197-318-850-392-878,CN,r2_keep,True,4-3,1,4-3,2-4,included_classified,Construction equipment for asphalt pavement structure taking steel slag and recy,included_classified,true,suppress
+101-625-661-751-728,CN,r2_keep,False,,0,,,domain_external,Branching construction method and system for four-leaf clover orbit family of ea,domain_external_active,true,keep
+017-568-561-050-737,CN,r2_keep,True,1-3;2-1,2,2-1,,included_classified,Mountain surface in-situ lunar soil condensation fusion forming printing powder ,included_classified,true,add
+075-993-616-758-021,CN,r2_keep,True,1-2;1-3,2,1-2,1-2,included_classified,Temperature-circulation-resistant sulphur concrete and preparation method thereo,included_classified,true,add
+132-942-314-295-063,CN,r2_keep,True,3-3;4-5,2,,3-1,included_classified,Method for quickly establishing lunar surface navigation and communication beaco,included_classified,true,add+suppress
+139-224-268-757-439,CN,r2_keep,False,,0,4-5,,domain_external,Method for repairing degraded wetland by using in-situ sludge,false_match,false,
+199-300-247-859-901,CN,r2_keep,True,1-2;1-3;2-1;4-1,4,4-1,1-2;1-3,included_classified,Round top cover of honeycomb-shaped fabricated building component,included_classified,true,add
+025-958-327-725-285,FR,r2_keep,True,4-3,1,4-3,,included_classified,Ground marking podotactile slabs comprise two opposite curved edges having shape,included_classified,true,keep
+083-586-331-014-944,CN,r2_keep,True,2-4,1,2-4,,included_classified,Pile-soil interaction centrifugal model test device and method considering large,included_classified,true,keep
+170-338-701-747-290,CN,r2_keep,True,4-4,1,,,included_classified,Detachable pile gripper applied to ship moon pool and mounting and using method ,included_classified,true,add_only
+086-679-503-789-925,US,r2_keep,True,4-1;4-4,2,4-1;4-4,4-1,included_classified,Structures and methods of erecting the same,included_classified,true,keep
+039-264-798-081-684,CN,r2_keep,True,1-3,1,,2-4;4-3,included_classified,Rocket take-off and landing platform based on in-situ resources and suitable for,included_classified,true,add+suppress
+017-244-871-132-93X,CN,r2_keep,True,1-3;2-1,2,1-3;2-1,1-3;2-1,included_classified,Method for preparing ZTA ceramic device by DLP (Digital Light Processing) 3D pri,included_classified,true,keep
+010-656-860-798-257,CN,r2_keep,True,1-2,1,1-2,1-2,included_classified,Nano-modified low-temperature early-strength lunar soil curing agent and prepara,included_classified,true,keep
+054-226-595-173-243,CN,r2_keep,True,2-1;2-2,2,2-1;2-2,1-1;2-1,included_classified,Copper-chromium-niobium composite powder for laser additive manufacturing and pr,included_classified,true,suppress
+080-379-115-676-897,CN,r2_keep,True,1-3;2-4,2,2-4,,included_classified,Multi-physical field preparation method for simulating bonded agglomerated rock ,included_classified,true,add
+140-281-727-511-910,US,r2_keep,True,3-1;4-1;4-2;4-4;4-5,5,4-5,4-2;4-5,included_classified,RAPID ASSEMBLY LIGHTWEIGHT MODULAR STRUCTURE,included_classified,true,add
+076-148-625-760-885,GR,r2_keep,False,,0,1-1,2-4,domain_external,PLANETARY GRINDING MILL,domain_external_active,true,suppress_all
+039-298-309-565-609,US,r2_keep,True,1-2,1,3-2,1-2,included_classified,Satellite-based content delivery network (CDN) in an extraterrestrial environmen,included_classified,true,suppress
+079-622-290-392-500,CN,r2_keep,True,1-1,1,,2-4,included_classified,Planetary drill bit,included_classified,true,add+suppress
+174-300-276-041-976,US,r2_keep,True,4-4;4-5,2,4-4,4-4,included_classified,Deployed electromagnetic radiation deflector shield (DERDS) which creates a zone,included_classified,true,add
+082-038-227-877-21X,CN,r2_keep,True,2-4;4-1,2,2-4,1-2,included_classified,Method for testing compressive strength of concrete capable of simulating rapid ,included_classified,true,add+suppress
+198-089-717-453-387,CN,r2_keep,True,2-1;2-4,2,2-1,,included_classified,Planetary gear type three-dimensional printer pusher,included_classified,true,add
+174-160-981-154-069,CN,r2_keep,True,2-2,1,1-3,,included_classified,Sintering tool for planetary gear,included_classified,true,add+suppress
+025-500-217-089-172,US,r2_keep,True,1-1;4-1,2,,1-1,included_classified,Lunar excavation and projectile transport systems and methods,included_classified,true,add
+029-069-376-625-614,KR,r2_keep,False,,0,,,domain_external,MAKING OF SHEATHING PANEL FOR EARTH RETAINING AND THIS AND CONSTRUCTION TECHNIQU,domain_external_active,true,keep
+098-864-983-629-700,CN,r2_keep,True,2-3;3-3;4-1,3,2-1;2-3,1-1,included_classified,Star soil automatic forming device based on solar energy,included_classified,true,add+suppress
+072-366-232-275-66X,CN,r2_keep,True,2-1;2-4,2,2-1,,included_classified,Two-tone three-dimensional printer material pushing device with switchable plane,included_classified,true,add
+073-364-110-607-934,CN,r2_keep,True,4-1;4-4,2,4-1,,included_classified,Lunar surface base interlayer shell powder mixing method and interlayer shell st,included_classified,true,add
+044-389-429-754-556,US,r2_keep,True,4-2;4-4;4-5,3,4-4,4-4,included_classified,Deployable and retractable space frame,included_classified,true,add
+099-389-968-727-78X,WO,r2_keep,False,,0,1-1,1-1;2-4,domain_external,PLANETARY MILL,domain_external_active,true,suppress_all
+133-455-615-343-143,WO,r2_keep,True,1-1;4-1;4-3,3,,,included_classified,GAS MINING COVER ARRANGEMENT,included_classified,true,add_only
+138-517-555-246-298,CN,r2_keep,False,,0,1-1,,domain_external,Construction waste recovery device utilizing Archimedes planetary gear principle,domain_external_active,true,suppress_all
+189-644-333-515-933,CN,r2_keep,True,1-2;1-3;2-1;4-1;4-4,5,4-1,,included_classified,Honeycomb-shaped fabricated building and building group main body construction m,included_classified,true,add
+112-145-811-503-647,CN,r2_keep,True,3-1,1,3-1,,included_classified,Intelligent robot end-to-end motion planning method,included_classified,true,keep
+193-912-995-611-062,CN,r2_keep,True,1-2;1-3;2-1;4-1,4,4-1,1-2;1-3;2-1,included_classified,Honeycomb-shaped fabricated building component and vertical connection method,included_classified,true,keep
+151-026-847-189-39X,CN,r2_keep,False,,0,3-3,,domain_external,Building construction hole processing device,domain_external_active,true,suppress_all
+037-287-771-992-831,US,r2_keep,True,2-4;4-1;4-4,3,2-4;4-1;4-4,2-4;4-4,included_classified,System and method for finding dents on an automobile using a booth,included_classified,true,keep
+046-146-601-903-186,CN,r2_keep,False,,0,3-3,2-4,domain_external,Novel manhole cover plate and construction method thereof,domain_external_active,true,suppress_all
+072-973-283-207-813,CN,r2_keep,False,,0,,,domain_external,Riprap leveling ship and gravel foundation bed leveling construction method,domain_external_active,true,keep
+102-213-207-788-999,US,r2_keep,True,1-1;3-1;3-3;4-1;4-2;4-5,6,3-1;3-3;4-1;4-3,4-3,included_classified,"Nuclear power heavy construction, mining and processing apparatus to make Exo-pl",included_classified,true,add+suppress
+121-226-793-658-530,CN,r2_keep,False,,0,,,domain_external,Suction anchor construction method through drilling vessel,domain_external_active,true,keep
+122-036-743-845-919,CN,r2_keep,True,4-1,1,3-3;4-1,1-2;4-4,included_classified,Shell concrete pouring method of membrane structure formwork for space base cons,included_classified,true,suppress
+158-657-999-018-456,CN,r2_keep,False,,0,,2-4,domain_external,Lunar surface landing whole-course guidance time optimization method based on al,domain_external_active,true,suppress_all
+176-875-693-945-466,CN,r2_keep,False,,0,,,domain_external,Construction method for sinking pipe foundation treatment,domain_external_active,true,keep
+000-029-056-241-583,NZ,r2_keep,True,1-2,1,1-2,1-2;4-4,included_classified,System and method for making and applying a non-portland cement-based material,included_classified,true,suppress
+016-686-598-023-258,US,r2_keep,True,4-4;4-5,2,4-4,2-4,included_classified,Flexurally hinged tripod support boom,included_classified,true,add+suppress
+063-363-893-746-836,CN,r2_keep,True,1-2;1-3;2-1;4-1,4,4-1,1-2;1-3;2-1,included_classified,Honeycomb-shaped fabricated building component and horizontal connecting method,included_classified,true,keep
+118-889-681-961-69X,CN,r2_keep,True,2-1;2-2;2-4,3,2-1;2-2,,included_classified,High-strength TC4-BN alloy containing isometric crystal and columnar crystal mix,included_classified,true,add
+032-122-857-229-194,CN,r2_keep,True,2-2;4-1,2,1-1,,included_classified,Vacuum thermal decomposition device,included_classified,true,add+suppress
+082-454-014-925-321,KR,r2_keep,False,,0,,4-3,domain_external,CONSTRUCTION METHOD OF CONSTRUCTION REINFORCING SOIL REUSING FRONT PLATE,domain_external_active,true,suppress_all
+029-606-345-629-891,CN,r2_keep,False,,0,,,domain_external,Multi-fin special-shaped pile rolling forming device and construction method,domain_external_active,true,keep
+129-725-575-095-167,CN,r2_keep,True,1-3;4-3,2,1-3;4-3,1-3;2-4,included_classified,Sponge city ceramic permeable bricks prepared by convection planetary mixing and,included_classified,true,suppress
+132-737-409-967-923,US,r2_keep,True,3-1;3-3,2,3-1,3-1;4-1;4-3,included_classified,Self-Reproducing Autonomous Robotics System for AI-Centric Infrastructure Genera,included_classified,true,add+suppress
+090-954-456-871-923,CN,r2_keep,True,2-1;2-2;2-4,3,2-1;2-2,1-3,included_classified,Rapid forming method for cylindrical part of 750 DEG C-resistant titanium-based ,included_classified,true,add+suppress
+075-941-801-946-687,CN,r2_keep,False,,0,1-1,,domain_external,Mixing and stirring equipment for constructional engineering,domain_external_active,true,suppress_all
+045-768-128-612-884,CN,r2_keep,False,,0,3-3,,domain_external,Steel bar connecting and rotating device for constructional engineering,domain_external_active,true,suppress_all
+110-435-904-405-416,CN,r2_keep,False,,0,,,domain_external,Overwater self-elevating type pile-top-movable pile driving platform and constru,domain_external_active,true,keep
+165-164-759-540-42X,CN,r2_keep,False,,0,1-1,2-1,domain_external,Construction waste crushing treatment device,domain_external_active,true,suppress_all
+108-644-027-759-624,CN,r2_keep,True,4-3,1,4-3,,included_classified,Construction waste water permeable brick paving equipment and paving process the,included_classified,true,keep
+143-594-726-304-406,CN,r2_keep,True,4-1,1,4-1,,included_classified,Local sealing and repairing method in space base construction,included_classified,true,keep
+198-042-823-013-889,CN,r2_keep,False,,0,,,domain_external,Premixed flow state solidified soil foundation treatment construction method,domain_external_active,true,keep
+086-298-411-521-527,US,r2_keep,True,4-3,1,4-3,,included_classified,Driving Device In A Self-Propelled Construction Machine And Method For Setting A,included_classified,true,keep
+112-014-420-378-172,CN,r2_keep,True,4-1,1,4-1,,included_classified,"Out-of-ground human settlement space power generation, energy storage and heat c",included_classified,true,keep
+154-317-391-262-462,CN,r2_keep,True,2-1;2-4,2,2-1,1-2,included_classified,Photo-thermal dual-curing polymer concrete material as well as preparation metho,included_classified,true,add+suppress
+198-695-313-752-233,CN,r2_keep,True,2-1;2-4,2,2-1;2-4,2-1,included_classified,Extrusion device and 3D printer,included_classified,true,keep
+028-568-605-898-801,CN,r2_keep,True,1-1,1,,,included_classified,Well drilling construction method of pressure-bearing-resisting underwater preci,included_classified,true,add_only
+112-194-015-896-380,US,r2_keep,True,4-1,1,,1-1,included_classified,Systems and methods for a multi-modal screw propelled excavation,included_classified,true,add+suppress
+060-284-040-635-232,CN,r2_keep,False,,0,,2-4,domain_external,Product fixing type planetary fiber-glass cylinder body winding method and equip,domain_external_active,true,suppress_all
+001-051-644-686-316,KR,r2_keep,False,,0,,,domain_external,Construction method for large-section slab formation using lead pipe propulsion ,domain_external_active,true,keep
+152-617-524-964-153,CN,r2_keep,False,,0,2-4,,domain_external,Empty drum detection device for constructional engineering,domain_external_active,true,suppress_all
+088-545-383-933-572,KR,r2_keep,True,1-2,1,1-2,1-2,included_classified,TREE-PLANTING METHOD OF CONSTRUCTION FOR STABILITY OF CUTTING AND BUILDING GROUN,included_classified,true,keep
+111-589-713-011-818,CN,r2_keep,True,4-1,1,3-3;4-1;4-5,,included_classified,Fabricated house and assembly construction method thereof,included_classified,true,suppress
+159-253-577-993-724,EP,r2_keep,True,3-1;4-5,2,3-1;4-1,4-1;4-5,included_classified,EXTENSIBLE HABITAT PRESSURE CONTROL FOR PLANETARY AND ORBITAL SPACE VEHICLES,included_classified,true,suppress
+071-339-597-446-919,CN,r2_keep,True,4-3,1,4-3,,included_classified,Screw-in type line-hanging pile suitable for hard soil construction and mounting,included_classified,true,keep
+066-977-584-622-691,US,r2_keep,True,4-2;4-4;4-5,3,4-4,4-4,included_classified,Space station configuration,included_classified,true,add
+046-642-328-646-002,CA,r2_keep,True,1-2;4-1;4-2,3,4-1,1-2,included_classified,THE BOULDER BAG,included_classified,true,add
+023-245-136-893-304,CN,r2_keep,True,4-1,1,4-1,,included_classified,Improved assembly type building cage type six-way joint and assembly method ther,included_classified,true,keep
+067-638-790-127-480,JP,r2_keep,False,,0,,,domain_external,6-SPEED POWER TRAIN OF AUTOMATIC TRANSMISSION FOR VEHICLE,false_match,false,
+023-016-263-468-942,CN,r2_keep,True,2-1;4-3,2,4-3,1-2;4-3,included_classified,3-D reinforce structure and construction method of pile-texture combined type so,included_classified,true,add+suppress
+111-430-539-073-575,KR,r2_keep,False,,0,,1-1,domain_external,THE EXCAVATION METHOD FOR SUBMARINE GROUND,domain_external_active,true,suppress_all
+144-454-692-105-039,CN,r2_keep,False,,0,1-1,,domain_external,Crushing equipment with automatic screening function for construction waste reco,domain_external_active,true,suppress_all
+076-073-757-586-483,WO,r2_keep,False,,0,,,domain_external,"INTEGRATED BARGE FOR GRAVEL BED LEVELING AND IMMERSED TUBE SINKING AND MOUNTING,",domain_external_active,true,keep
+001-825-827-873-401,CN,r2_keep,False,,0,,,domain_external,Gravel foundation bed leveling and immersed tube sinking installation integrated,domain_external_active,true,keep
+154-758-167-286-228,CN,r2_keep,True,4-1,1,4-1,,included_classified,Cage type six-type joint of prefabricated building and assembling method of cage,included_classified,true,keep
+089-313-299-786-761,CN,r2_keep,False,,0,,,domain_external,Component-based general construction method and system for micro-nano satellite ,domain_external_active,true,keep
+027-442-483-323-785,CN,r2_keep,True,4-1,1,,4-2,included_classified,Radiation-proof curing agent and building material,included_classified,true,add+suppress
+003-060-317-504-930,CN,r2_keep,True,2-1;4-5,2,,,included_classified,Special space integrated iron manufacturing device and method thereof,included_classified,true,add_only
+154-270-959-341-812,CN,r2_keep,False,,0,,4-3,domain_external,Throwing-filling structure system and working method thereof,domain_external_active,true,suppress_all
+175-457-570-249-34X,CN,r2_keep,True,1-2;1-3;4-1;4-2;4-4,5,4-1,,included_classified,Honeycomb-shaped assembly type building prefabricated wall panel with 120-degree,included_classified,true,add
+127-551-086-141-265,CN,r2_keep,False,,0,,1-2,domain_external,Wind power plant construction concrete discharging device,domain_external_active,true,suppress_all
+082-222-301-551-921,CN,r2_keep,True,2-1;2-2,2,2-1;2-2,1-3,included_classified,Preparation method of bearing steel composite material containing WC-Co metal ce,included_classified,true,suppress
+121-421-931-032-004,JP,r2_keep,True,1-1;4-1,2,,1-1,included_classified,"RESOURCE RECOVERY SYSTEM, AND METHOD OF RESOURCE EXTRACTION FROM SOIL",included_classified,true,add
+029-949-284-904-662,CN,r2_keep,True,4-1,1,4-1,,included_classified,Safety warning type fence for municipal engineering night construction,included_classified,true,keep
+006-358-741-766-308,DE,r2_keep,False,,0,2-1,,domain_external,Planetary rolling construction or modular structured extruder for processing pla,domain_external_active,true,suppress_all
+186-596-668-530-091,CN,r2_keep,True,4-1,1,,1-3,included_classified,Ceramic rod grid curtain wall structure and construction method thereof,included_classified,true,add+suppress
+151-184-220-804-604,CN,r2_keep,True,4-1,1,,,included_classified,Green energy-saving fabricated wallboard and construction method thereof,included_classified,true,add_only
+123-562-791-243-046,CN,r2_keep,True,2-1;2-2;2-4,3,2-1;2-2;2-4,2-1,included_classified,Wear-resistant stainless steel plate and preparation method thereof,included_classified,true,keep
+169-718-263-165-950,RU,r2_keep,True,4-4,1,4-4,,included_classified,BINARY SPACE VEHICLE FOR SEARCHING AND COLLECTING OUTER SPACE OBJECTS WITH QUANT,included_classified,true,keep
+019-513-755-016-566,CN,r2_keep,True,3-1;3-2,2,3-1;3-2,3-2,included_classified,Self-adaptive virtual fixture modeling and mechanical arm tail end force feedbac,included_classified,true,keep
+074-988-008-453-707,CN,r2_keep,False,,0,,2-4,domain_external,Beam plate post-cast strip formwork supporting method,domain_external_active,true,suppress_all
+030-072-012-520-662,CN,r2_keep,True,3-1,1,,,included_classified,Robot ecosphere system,included_classified,true,add_only
+010-840-038-884-847,CN,r2_keep,True,4-1,1,4-1,,included_classified,Assembled building six-way joint and assembling method thereof,included_classified,true,keep
+005-989-927-644-311,CN,r2_keep,False,,0,,1-2,domain_external,Energy-saving strong self-counterforce multidirectional cement soil mixing pile ,domain_external_active,true,suppress_all
+153-458-535-453-894,CN,r2_keep,True,2-1;2-2,2,1-3;2-1;2-2,1-3;2-1,included_classified,Preparation method of in-situ nano TiB whisker-reinforced Ti-based composite mat,included_classified,true,suppress
+185-449-211-960-861,US,r2_keep,True,1-1;3-1,2,3-1,2-4,included_classified,Multiblock robot system,included_classified,true,add+suppress
+078-187-996-081-771,CN,r2_keep,True,1-1,1,2-1,,included_classified,Star soil in-situ sintering forming device and method based on solar energy,included_classified,true,add+suppress
+145-952-826-098-902,CN,r2_keep,False,,0,3-3,1-2,domain_external,Concrete hole wall scrabbling device,domain_external_active,true,suppress_all
+186-860-398-184-888,CN,r2_keep,True,1-3,1,1-3;2-1,1-2;1-3,included_classified,Preparation method of ultrahigh-density ceramic biscuit,included_classified,true,suppress
+182-128-399-227-621,CN,r2_keep,False,,0,2-1,1-2,domain_external,Automatic concrete pouring device for building construction,domain_external_active,true,suppress_all
+146-090-585-265-211,CN,r2_keep,True,4-3,1,4-3,4-3,included_classified,Building material mixing device for road paving,included_classified,true,keep
+010-992-517-500-727,CN,r2_keep,False,,0,,2-4,domain_external,Power drive head,domain_external_active,true,suppress_all
+035-687-396-656-990,CN,r2_keep,True,4-1;4-2,2,4-1,,included_classified,Energy-storing and gradient energy consuming steel structure beam-column combina,included_classified,true,add
+040-029-340-207-535,CN,r2_keep,False,,0,3-3,,domain_external,Near-edge protection method without damaging wall body,domain_external_active,true,suppress_all
+149-532-984-103-361,EP,r2_keep,False,,0,1-1,,domain_external,Device for crushing a material,domain_external_active,true,suppress_all
+061-462-013-618-280,CN,r2_keep,False,,0,3-3,1-2,domain_external,Efficient and energy-saving grouting process of concrete for building constructi,domain_external_active,true,suppress_all
+171-341-559-269-075,KR,r2_keep,False,,0,,,domain_external,CIP CIP method using vertical guide casing,domain_external_active,true,keep
+030-329-357-505-565,CN,r2_keep,True,2-1;2-2,2,2-1;2-2,1-3;2-4,included_classified,Preparation method of multiphase reinforced titanium alloy composite material,included_classified,true,suppress
+058-568-576-158-190,CN,r2_keep,False,,0,,,domain_external,Modular joint used for robot,domain_external_active,true,keep
+175-161-558-314-791,CN,r2_keep,True,4-4,1,3-1,1-2;2-4,included_classified,Modularized heavy-load mechanical arm joint,included_classified,true,add+suppress
+184-689-077-429-784,CN,r2_keep,False,,0,1-2;2-1,,domain_external,Method for manufacturing extralarge-aperture honeycomb building blocks,domain_external_active,true,suppress_all
+056-787-609-572-396,CN,r2_keep,True,2-4,1,2-4,,included_classified,Extreme environment deep sedimentary rock soil layer test platform and construct,included_classified,true,keep
+075-759-480-818-981,CN,r2_keep,True,4-1;4-2;4-4,3,4-1,,included_classified,Mortise and tenon joint type connecting structure of prefabricated honeycomb-sha,included_classified,true,add
+110-722-517-231-411,GB,r2_keep,True,4-1,1,,,included_classified,Fixing clip for use in timber deck construction,included_classified,true,add_only
+116-230-642-258-442,CN,r2_keep,True,1-1,1,2-1,,included_classified,Sand collecting and brick making device driven by wind power generation,included_classified,true,add+suppress
+119-868-484-217-523,CN,r2_keep,True,4-3,1,4-3,1-2;4-3,included_classified,Waste cement crushing device for road and bridge construction,included_classified,true,suppress
+112-662-275-680-927,CN,r2_keep,False,,0,,,domain_external,Energy-saving and efficient pile-forming method of multidirectional stirring pil,domain_external_active,true,keep
+154-256-820-951-535,US,r2_keep,True,4-5,1,,,included_classified,Tubular shaped interstellar space craft,included_classified,true,add_only
+154-139-161-624-705,CN,r2_keep,False,,0,,,domain_external,Stirring structure,domain_external_active,true,keep
+011-906-543-929-984,KR,r2_keep,False,,0,4-5,,domain_external,LANDSCAPE ARCHITECTURE FLOWER BED USING HALF MOON TYPE MEMBER AND PIPE MEMBER FO,false_match,false,
+074-757-240-665-618,CN,r2_keep,False,,0,4-5,,domain_external,High-yield cultivation technique of polygonum cuspidatum asexual reproduction,false_match,false,
+084-201-913-648-193,CN,r2_keep,False,,0,,,domain_external,Seabed gravel leveling ship structure,domain_external_active,true,keep
+174-797-027-966-130,CN,r2_keep,True,1-2;1-3,2,,1-2,included_classified,Glass-based concrete and preparation method thereof,included_classified,true,add
+109-106-302-948-939,CN,r2_keep,True,1-2;1-3,2,,,included_classified,Glass-based mortar and preparation method thereof,included_classified,true,add_only
+111-262-704-693-082,CN,r2_keep,True,4-3,1,4-3,4-3,included_classified,Road film covering equipment for road maintenance,included_classified,true,keep
+101-957-760-117-352,CN,r2_keep,False,,0,1-2,,domain_external,Production method of small-bore honeycomb building block,domain_external_active,true,suppress_all
+013-903-705-689-442,CN,r2_keep,True,2-4,1,2-4,,included_classified,Mineral recognition and abundance inversion method for Chang'e 4 hyperspectral d,included_classified,true,keep
+014-885-855-780-356,CN,r2_keep,True,4-1,1,3-3,,included_classified,Rotary hoisting system for conical shell roof,included_classified,true,add+suppress
+177-774-917-971-406,CN,r2_keep,False,,0,,1-2,domain_external,Aerial automatic direction changing device for bidirectional cement mixing pile,domain_external_active,true,suppress_all
+196-712-472-823-026,RU,r2_keep,False,,0,,,domain_external,VIBRATOR AND VIBRATOR APPLICATION,domain_external_active,true,keep
+042-224-802-948-597,BG,r2_keep,True,4-1;4-2,2,,,included_classified,UNDERGROUND HOME,included_classified,true,add_only
+126-872-794-013-45X,CN,r2_keep,True,1-3,1,1-3,,included_classified,Soft magnetic ferrite with spinel structure as well as preparation method and ap,included_classified,true,keep
+136-401-719-613-529,KR,r2_keep,True,2-2,1,1-3,1-2,included_classified,MANUFACTURING METHOD OF PLANET CARRIER FOR AUTO TRANSMISSION,included_classified,true,add+suppress
+179-109-432-231-402,CN,r2_keep,False,,0,,,domain_external,Telescopic mechanical structure of multi-degree-of-freedom telescopic train seat,false_match,false,
+090-729-202-662-469,CN,r2_keep,True,1-3,1,1-3,,included_classified,Preparation method of high-strength heat-insulation refractory mortar,included_classified,true,keep
+101-859-607-539-795,CN,r2_keep,True,4-1,1,4-1,2-4,included_classified,Single component silane modified sealant used in industrialized building,included_classified,true,suppress
+129-171-424-976-221,CN,r2_keep,False,,0,2-1,1-2;2-1,domain_external,Vacuum extrusion fiber cement wallboard production line,domain_external_active,true,suppress_all
+180-196-118-308-110,CN,r2_keep,False,,0,,,domain_external,Stable tourmaline slurry and preparation method thereof,false_match,false,
+058-002-452-177-389,CN,r2_keep,False,,0,1-2,2-4,domain_external,Manufacturing method of medium-aperture honeycomb building blocks,domain_external_active,true,suppress_all
+106-292-223-730-272,CN,r2_keep,False,,0,1-2,1-2,domain_external,"Waterproof material for cement pipeline, and preparation method thereof",domain_external_active,true,suppress_all
+082-568-815-110-507,CN,r2_keep,True,1-3,1,1-3,,included_classified,Sintered high-alumina refractory brick and preparation method thereof,included_classified,true,keep
+020-726-954-325-331,RU,r2_keep,True,1-3,1,,1-2;1-3,included_classified,METHOD OF PRODUCING GRANULATED FOAMED SILICATE PENOSTEK,included_classified,true,suppress
+090-336-438-217-698,CN,r2_keep,False,,0,1-2,1-2,domain_external,BIPV lightweight thermal insulation concrete stirring process,domain_external_active,true,suppress_all
+186-206-025-710-754,WO,r2_keep,False,,0,1-2;2-1,,domain_external,METHOD AND COMPOSITION FOR PRODUCTION OF GRANULAR COMPOSITE PANELS,domain_external_active,true,suppress_all
+004-909-204-014-421,CN,r2_keep,False,,0,1-2,1-1;1-2;2-4,domain_external,Preparation method of anti-radiation impact-resistant concrete,domain_external_active,true,suppress_all
+137-535-750-236-047,CN,r2_keep,False,,0,1-2,,domain_external,Manufacturing method of large-aperture honeycomb building block,domain_external_active,true,suppress_all
+151-217-097-892-036,CN,r2_keep,True,2-2,1,1-3,,included_classified,Preparing method for hard alloy with adjustable and controllable platy WC grain ,included_classified,true,add+suppress
+053-869-005-808-716,CN,r2_keep,True,1-3,1,1-3,1-3,included_classified,Preparation method of aluminum-silicon wear-resistant spray coating for hot-stat,included_classified,true,keep
+195-905-250-271-427,RU,r2_keep,False,,0,1-2,1-2;1-3;2-4,domain_external,ELECTROCONDUCTIVE CONCRETE,domain_external_active,true,suppress_all
+001-758-811-727-242,CN,r2_keep,False,,0,1-1,,domain_external,Roller-type homogenizing mill,domain_external_active,true,suppress_all
+042-993-014-781-614,CN,r2_keep,False,,0,1-2,1-2,domain_external,Sprayable ultrahigh-toughness cement-based composite and preparation method ther,domain_external_active,true,suppress_all
+084-738-999-002-165,RU,r2_keep,False,,0,,,domain_external,SPACE ELEVATOR FOR DELIVERY OF PASSENGERS AND CARGOES FROM SURFACE OF EARTH OR O,domain_external_active,true,keep
+001-515-563-414-207,KR,r2_keep,True,2-1;2-2,2,1-3;2-1,,included_classified,Manufacturing Method of Gear Part with Multi-structure using Powder Sintering,included_classified,true,add+suppress
+140-427-777-675-04X,RU,r2_keep,True,1-3,1,1-3,1-3,included_classified,SILICON NITRIDE BASED CHARGE AND METHOD FOR PRODUCTION OF ARTICLES THEREOF,included_classified,true,keep
+100-210-506-365-332,CN,r2_keep,False,,0,1-1,,domain_external,Comprehensive stone crushing and sieving production system,domain_external_active,true,suppress_all
+185-983-037-373-329,CN,r2_keep,True,1-3;2-1,2,1-3;2-1,1-3,included_classified,Cordierite precursor photocuring paste and preparation method of porous cordieri,included_classified,true,keep
+168-068-379-531-686,JP,r2_keep,True,2-2,1,,2-4,included_classified,BRAZE PREFORM FOR POWDER METAL SINTERING,included_classified,true,add+suppress
+119-929-154-889-905,RU,r2_keep,True,4-1,1,,,included_classified,DEVICE FOR PROTECTING THE ENVIRONMENT FROM VOLCANIC INFLUENCES AND A METHOD FOR ,included_classified,true,add_only
+116-091-804-779-391,CN,r2_keep,False,,0,,,domain_external,Single-stage-drive hydraulic drill lifting type power system,domain_external_active,true,keep
+147-058-610-395-058,CN,r2_keep,False,,0,,1-1;1-2;2-4,domain_external,Method for completely carbonizing regenerated powder,domain_external_active,true,suppress_all
+136-229-349-632-615,CN,r2_keep,False,,0,1-2,1-2,domain_external,Wear-resistant self-leveling cement mortar doped with waste glass and preparatio,domain_external_active,true,suppress_all
+116-458-118-208-714,CN,r2_keep,True,4-1,1,4-1,,included_classified,Double-component silane-modified sealant for industrialized building,included_classified,true,keep
+094-979-655-376-155,CN,r2_keep,False,,0,,,domain_external,Chain wheel driving unit and milling groove stirring machine,domain_external_active,true,keep
+052-995-927-623-436,CN,r2_keep,False,,0,,,domain_external,Chain wheel electric drive control system and milling groove stirring machine,domain_external_active,true,keep
+183-534-818-391-136,WO,r2_keep,True,1-3,1,,1-2,included_classified,GRANULATED FOAM GLASS PRODUCTION SYSTEM,included_classified,true,add+suppress
+152-717-797-903-389,CN,r2_keep,True,1-3,1,1-3,1-1;1-3;2-4,included_classified,Powder mechanical pretreatment method for reducing double-twin crystal density i,included_classified,true,suppress
+106-066-780-767-187,CN,r2_keep,True,1-3,1,1-3,,included_classified,Sintering method of compact solid electrolyte LATP,included_classified,true,keep
+169-630-418-590-040,CN,r2_keep,True,3-2,1,2-4,3-1;3-2,included_classified,Air-land amphibious spherical robot for environmental information acquisition,included_classified,true,suppress
+126-121-192-872-209,CN,r2_keep,False,,0,4-5,1-1,domain_external,Method for remarkably improving survival rate of mountain afforestation,false_match,false,
+008-203-307-751-089,WO,r2_keep,False,,0,1-1,1-1;2-4,domain_external,MILL DISCHARGE GRATING,domain_external_active,true,suppress_all
+064-234-484-959-553,CN,r2_keep,True,1-3,1,1-3,1-3;2-4,included_classified,Method for preparing high-intensity composite material from casting waste sand t,included_classified,true,suppress
+017-915-259-433-159,CN,r2_keep,True,2-2,1,1-3,,included_classified,High-density non-magnetic compressor balance block and preparation method thereo,included_classified,true,add+suppress
+090-546-806-819-621,CN,r2_keep,False,,0,2-4,1-1;1-2,domain_external,Supergravity model test device and method for simulating gradual instability of ,domain_external_active,true,suppress_all
+046-097-645-717-010,CN,r2_keep,True,1-3,1,1-3,1-3,included_classified,Preparation process of silicon nitride ceramic sheet formed by in-situ polymeriz,included_classified,true,keep
+182-687-790-526-684,CN,r2_keep,True,2-2,1,1-3,1-3,included_classified,High-thermal-conductivity copper-based composite material for heat dissipation a,included_classified,true,add+suppress
+085-814-210-033-721,LU,r2_keep,True,1-3,1,1-3,1-3,included_classified,A RED MUD DOPED ALUMINA-BASED STRUCTURAL CERAMIC MATERIAL TECHNICAL FIELD,included_classified,true,keep
+007-790-645-320-92X,CN,r2_keep,True,1-3,1,1-3,,included_classified,Preparation method of microporous magnesium aggregate,included_classified,true,keep
+093-515-621-051-238,CN,r2_keep,True,2-2,1,1-3,2-4,included_classified,Preparation method and application of wear-resistant and strength-coordinated ha,included_classified,true,add+suppress
+140-118-821-533-796,CN,r2_keep,True,1-3,1,1-3,,included_classified,High-purity compact magnesium oxide target material and preparation method there,included_classified,true,keep
+176-729-497-913-955,CN,r2_keep,True,1-3,1,1-3,2-4,included_classified,Compression molding method of polycrystalline cubic boron nitride,included_classified,true,suppress
+058-133-863-361-682,CN,r2_keep,True,1-3,1,1-3,1-2;1-3,included_classified,Preparation method of silicon carbide composite ceramic,included_classified,true,suppress
+106-424-172-883-94X,CN,r2_keep,True,1-3,1,1-3,,included_classified,Compact MgO-CaO material and preparation method thereof,included_classified,true,keep
+031-451-498-369-259,CN,r2_keep,True,2-2,1,1-3,1-2;1-3,included_classified,Process for preparing ceramic particle reinforced steel-based composite material,included_classified,true,add+suppress
+141-787-831-722-528,DE,r2_keep,False,,0,2-1,2-1,domain_external,Extruder for molten plastics has a blister at the extrusion zone to control the ,false_match,false,
+089-870-989-292-090,CN,r2_keep,True,1-3,1,1-3,1-3,included_classified,Method for connecting carbon/carbon composite material through in-situ generatio,included_classified,true,keep
+046-139-877-776-768,CN,r2_keep,True,1-3,1,1-3,2-4,included_classified,Preparation method of mullite whisker coated silicon carbide refractory material,included_classified,true,suppress
+166-482-176-700-989,CN,r2_keep,True,1-3,1,1-3,1-3,included_classified,Titanium nitride-based composite ceramic material and preparation method thereof,included_classified,true,keep
+182-259-652-740-235,RU,r2_keep,False,,0,1-1,,domain_external,VIBRATING SCREEN,domain_external_active,true,suppress_all
+161-597-792-810-151,CN,r2_keep,True,2-2,1,1-3,,included_classified,Wear-resistant alloy block for sweeper truck suction nozzle and preparation meth,included_classified,true,add+suppress
+195-198-525-066-626,CN,r2_keep,False,,0,,,domain_external,Simulation system and simulation method for influence of tunnel stratum loss on ,domain_external_active,true,keep
+028-628-012-867-358,CN,r2_keep,True,2-2,1,1-3,,included_classified,Graphite-reinforced CoCrNi medium-entropy alloy solid self-lubricating material ,included_classified,true,add+suppress
+057-147-053-918-291,CN,r2_keep,True,2-2,1,1-3,,included_classified,Preparation method of TiB reinforced medical porous titanium,included_classified,true,add+suppress
+028-522-977-253-840,CN,r2_keep,True,2-2,1,1-3,1-1,included_classified,Method for producing high-performance aluminum alloy by using secondary aluminum,included_classified,true,add+suppress
+004-002-361-896-362,CN,r2_keep,True,1-3,1,1-3,1-3,included_classified,Method for producing lightweight ceramsite spheres from waste sponge blocks,included_classified,true,keep
+183-394-187-583-366,CN,r2_keep,True,2-2,1,1-3,1-2,included_classified,Preparation method of high-entropy alloy binder phase hard alloy,included_classified,true,add+suppress
+082-650-344-541-441,CN,r2_keep,True,2-2,1,,1-3;2-4,included_classified,Copper-chromium-based electrical contact self-lubricating composite material and,included_classified,true,add+suppress
+063-263-776-157-292,WO,r2_keep,True,2-2,1,1-3,1-3,included_classified,A METHOD FOR MANUFACTURING OF CERAMIC COMPOSITE BASED ON TUNGSTEN CARBIDE,included_classified,true,add+suppress
+036-670-377-915-876,CN,rescue,True,4-1,1,,3-1,included_classified,Lunar rover for preparing hydrogen and oxygen,included_classified,true,add+suppress
+084-709-410-687-85X,RU,rescue,True,1-1;4-1,2,,,included_classified,METHOD FOR PERFORMING THE DEVELOPMENT OF LUNAR WATER ICE,included_classified,true,add_only
+085-032-228-805-703,US,rescue,True,1-1;1-2,2,1-1;1-2,1-1;2-4,included_classified,METHOD OF PRODUCTION AND USE OF A NANO-REGOLITH FOR PREPARING A CONSTRUCTION MAT,included_classified,true,suppress
+079-861-750-274-774,CN,rescue,True,1-1;4-1;4-5,3,,3-1;3-2,included_classified,Interaction device and interaction control method of lunar manned mobile vehicle,included_classified,true,add+suppress
+087-131-452-494-774,CN,rescue,True,1-1;2-4,2,2-4,,included_classified,Water-containing ice lunar soil water vapor extraction simulation experiment dev,included_classified,true,add
+056-379-454-515-406,CN,rescue,False,,0,4-3,2-4;3-1,domain_external,Mars exploration landing platform structure capable of bearing complex large loa,audit_only,false,
+012-217-080-830-242,CN,rescue,True,3-2,1,,2-4;3-2,included_classified,Teleoperation system architecture for manned exploration of lunar surface,included_classified,true,suppress
+173-737-705-692-466,CN,rescue,True,1-1;2-4,2,2-4,,included_classified,Horizontal type steam ice condensing device for preparing lunar ice soil simulat,included_classified,true,add
+012-995-189-098-391,LU,rescue,True,1-1;2-4,2,2-4,,included_classified,Thermal management system,included_classified,true,add
+046-161-733-816-880,CN,rescue,True,1-1;2-4,2,2-4,2-4,included_classified,System and method for testing vacuum thermally-induced sublimation loss rate of ,included_classified,true,add

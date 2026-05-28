@@ -1,0 +1,47 @@
+cff-version: 1.2.0
+title: "Auditable denominator design for patent field delineation: A WBS-ITC codebook-plus-ledger approach"
+message: "If you use this repository, please cite the associated manuscript."
+type: dataset
+
+authors:
+  - family-names: Lee
+    given-names: Tai Sik
+  - family-names: Lee
+    given-names: Yoonsun
+    orcid: "https://orcid.org/0000-0001-8229-9955"
+
+year: 2026
+
+license: CC-BY-4.0
+
+keywords:
+  - patent mapping
+  - denominator design
+  - field delineation
+  - classification dispersion
+  - WBS-ITC framework
+  - work breakdown structure
+  - integrated technology classification
+  - reference implementation
+  - lunar ISRU construction
+  - scientometrics
+  - reproducible scientometrics
+
+repository-code: "https://github.com/Yoonsknowlege/WBS-ITC"
+
+abstract: >
+  Reproduction package for "Auditable denominator design for patent field delineation: A WBS-ITC codebook-plus-ledger approach".
+  Contains the released adjudicated dataset, family-domain decision ledger,
+  machine-readable WBS-ITC codebook, descriptive query provenance, and
+  scripts for exact downstream reconstruction of the core body tables
+  (main analytical accounting and rule-to-adjudicated diagnostic outputs), body figures (Figs. 2, 3, 4), and Online Resource 1
+  quantitative diagnostics (Tables S6a, S8, S9, S10, S13, the numeric
+  components of Table S12, Table S14 within-layer comparison of
+  deterministic first-pass and adjudicated mapping outputs, Table S16
+  expanded within-layer benchmarking against deterministic and restrictive
+  delineation variants, and Fig. S1) reported in the manuscript. Also
+  includes scripts/build_audit_sample.py and scripts/score_audit.py
+  supporting the Table S15 reviewer-executable blind audit protocol; no
+  author-internal audit results are reported in the manuscript.
+  Interpretive keyword summaries in Table S12 are documented but not
+  script-generated.
