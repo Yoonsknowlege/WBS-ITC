@@ -207,31 +207,31 @@ descriptive author summaries and are **not** script-generated.
 
 ## File integrity (SHA256)
 
-Verify package integrity against this snapshot. To recompute on a Unix-like system, run `sha256sum <path>` (or `shasum -a 256 <path>`) and compare to the value below.
+Verify package integrity against this snapshot. Hashes are computed over the canonical repository content with LF line endings, as exported by `git archive` and GitHub/Zenodo release archives (this repository ships a `.gitattributes` that enforces LF for text files). To recompute on a Unix-like system, run `sha256sum <path>` (or `shasum -a 256 <path>`) and compare to the value below; on Windows, compare against an LF checkout (e.g. the files inside the released archive) rather than a CRLF working copy.
 
 | File | Size (bytes) | SHA256 |
 |---|---:|---|
 | `data/phase2_453_families.json` | 461554 | `d477ddd2e895661325399c033bf0f631e617dec19ebe833b78d0c0fb201251e4` |
-| `data/decision_ledger.csv` | 79768 | `68aed23e662c370c6398d253f28343a9f6ac29966951890c8b9af917d788d310` |
-| `data/decision_ledger_long.csv` | 430980 | `cad1c372d8aebb2f966f0cccc5c459518b49333761e3c89d88957c5c5954e8a3` |
+| `data/decision_ledger.csv` | 79314 | `82b8f7ef93b4611513d6a339783b9c319d05297e202e0735b60e94d8ea249572` |
+| `data/decision_ledger_long.csv` | 424184 | `38b96c211630210a4939ef42289351dc21a42e6949baa505ed428a06ced0d876` |
 | `data/itc_codebook.json` | 5623 | `63227e68f8bbbea95b4069472ed6556a1add7bb25118c210e9c4b85ffe9fed34` |
 | `data/lens_query.txt` | 4867 | `1a02f1ae1a4e0ca3446e2ef195b2abfeab2830e5907095360fbbfc8909adc8c8` |
-| `scripts/recompute_tables_from_json.py` | 15941 | `e136f03c68c49690c88e029ad11cfa11d88561e96e9c600c5c5d4c78e7c8e82d` |
-| `scripts/concordance_diagnostic.py` | 5166 | `2773ba3517d9f801720cea1d648c45c939bc915427ca10d2d6d73fafb76321e3` |
-| `scripts/baseline_comparison.py` | 3929 | `8051344586d362589bfe8f0ea8641eb169f6d4891f24875f4157c91c7f362073` |
+| `scripts/recompute_tables_from_json.py` | 16497 | `b79dc0d56d5e077cb278b2996773d75a479c4a6ce7f241b7df89f96f277fb8e0` |
+| `scripts/concordance_diagnostic.py` | 5184 | `02ccef5b355e45107027e2257f672c2d7e6be6e201f2492e0f1b764f6e79b94d` |
+| `scripts/baseline_comparison.py` | 3947 | `9e5492ee6eec42e33a8a15148e05397e62717760be74f2b8aa3ea10b9859e310` |
 | `scripts/anchor_sensitivity.py` | 8385 | `449407e69ed51c05db6103104d5ce549b2d808cf4a0aec2b052db4fe7a7136d6` |
 | `scripts/nonseed_bridging.py` | 7652 | `f0a5524760cc6e52e9d527c6864364945dfac7fd13fff9137d26d2dc29c9e33a` |
 | `scripts/sensitivity_checks.py` | 17728 | `c1685e50a0e8ebf7a8bf6ac58c373625274c64c6190a03fd96ea88816b00f8be` |
-| `scripts/seed_only_baseline.py` | 6397 | `8c50f1afd38fa9283832dd69429e8e56f6d4c982b94fc225bfbf6bbb81d0ec7d` |
+| `scripts/seed_only_baseline.py` | 6415 | `00c89ed61cf7402303df6130181206afe35d195fd96baefbf18baa57074757d2` |
 | `scripts/expanded_baseline.py` | 9367 | `a17bb5c7b284b37132053758467274d0309363cc1e9b483bd1f5b84affd30ef9` |
-| `scripts/table_s12_profiles.py` | 6796 | `4848c135e7114fd5d81f6598765c9b86c7280b22d5a1966d3c7fe5668ab63dc8` |
+| `scripts/table_s12_profiles.py` | 6832 | `6a5052ed15e4062e4edc00f2123e802e3961515b46cb58ee70d488c3557e9a1d` |
 | `scripts/domain_external_partition.py` | 5538 | `aa01b06cc00896813b6f5e0dfa15c9438f3c915203e1ec90a1262daea81e7a54` |
 | `scripts/build_long_form_ledger.py` | 5377 | `8fd844fc5f28f02a66ae8c0c3564aa0237ed9f01ba7cc0479c5673919600a463` |
 | `scripts/build_audit_sample.py` | 6519 | `61d4674a90235816e9f740ebb84feca1d4ba093090b3c61d8c788f0ef2b3f349` |
 | `scripts/score_audit.py` | 5933 | `620e01eabe13db788cb2595bdc56219db27da59070297ad340999d68ad755084` |
 | `scripts/generate_all_figures.py` | 10957 | `cb8da5c5377e0431e9415d32611dfac4538c111b510767fb820fefc5e165023e` |
-| `scripts/wbs_layer_concordance.py` | 9196 | `19b6ab80c1622d6d7cebfc23b25b95bbaeb9dfd3d8dc0b25cdccfcdf89000a24` |
-| `scripts/isru_data.py` | 17138 | `d47649881afd27f5de13f928db889b0cd401dbe1946005d8d57289b041b0ac16` |
+| `scripts/wbs_layer_concordance.py` | 9214 | `8a3eed16f5c8d9930cdd2fa99fa2345be6a2be73b5d9226c9ca9751190a06729` |
+| `scripts/isru_data.py` | 17124 | `3b9463bf35214bfbb9c582ed5e29f4dcc8eebd7945ce458cd50e8b9917fe5eed` |
 | `figures/fig2_itc_portfolio_bar.png` | 434211 | `c6a95bdd0a78dc70f39a37ae936c7432f3882dc3e98e8559eaa81e526a269763` |
 | `figures/fig3_wbs_filing_year.png` | 247058 | `6506960acf755606947436ad9e79fa877e78588d19fdb6b72c494dd186ec9901` |
 | `figures/fig4_itc_jaccard_matrix.png` | 646268 | `39c318b7fb14e3018596dd48a3349d327434016824b0f4552d8a48ce6c180a6a` |
@@ -240,6 +240,6 @@ Verify package integrity against this snapshot. To recompute on a Unix-like syst
 | `requirements-lock.txt` | 408 | `62455136246b10defb0f1e220816c51c9197db3be975bb84a8f9df61941e96f0` |
 | `environment.yml` | 152 | `d826bd242a0eec3c60ab02fdf92686ac0e570e6986f2a250bd4fe2f96948e3af` |
 | `run_all.sh` | 1543 | `003a6a4544aa2d67b280a6fc2173c61fb7e0e833733f1772998150d468a3daa7` |
-| `README.md` | 14404 | `949665e45d4a6f93891dae6f73eee0389b44cf144cb837409b8fa75e815f3442` |
-| `CITATION.cff` | 2380 | `7aaaa32681973025b89bd296c58e2462792fcad75996c1e91dfd28d0a5bad8df` |
+| `README.md` | 13764 | `d4c11c133e83e08956eee0ab5ff185e92f5df1dc36fb17a90fa41e34a961a841` |
+| `CITATION.cff` | 2291 | `4e6bdbd772a88e87343d310ce70df3be686a3f87a6f35f636898931e366db40f` |
 | `LICENSE` | 272 | `ed8e5cc4b7c082357eb6ceccb99aa8aad5a84092b6bd0fb93f62ca19aaf960dd` |
