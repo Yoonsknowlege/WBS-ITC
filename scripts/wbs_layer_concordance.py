@@ -141,7 +141,7 @@ def krippendorff_alpha_binary_matrix(rule_matrix, adj_matrix, n_families, n_doma
 
 
 def main():
-    with open(LEDGER_PATH, 'r') as f:
+    with open(LEDGER_PATH, 'r', encoding='utf-8') as f:
         reader = csv.DictReader(f)
         rows = list(reader)
 

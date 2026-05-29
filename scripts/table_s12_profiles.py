@@ -49,7 +49,7 @@ def parse_doms(s):
 
 def main():
     ledger_path = os.path.join(DATA_DIR, 'decision_ledger.csv')
-    with open(ledger_path, 'r') as f:
+    with open(ledger_path, 'r', encoding='utf-8') as f:
         rows = list(csv.DictReader(f))
 
     # ITC-classified subset
@@ -65,7 +65,7 @@ def main():
     json_path = os.path.join(DATA_DIR, 'phase2_453_families.json')
     family_meta = {}
     if os.path.exists(json_path):
-        with open(json_path, 'r') as f:
+        with open(json_path, 'r', encoding='utf-8') as f:
             data = json.load(f)
         # data may be a list of family dicts or {lens_id: {...}}
         if isinstance(data, list):

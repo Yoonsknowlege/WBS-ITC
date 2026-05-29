@@ -75,7 +75,7 @@ def pabak(tp, fp, fn, tn):
 
 
 def main():
-    with open(LEDGER_PATH, 'r') as f:
+    with open(LEDGER_PATH, 'r', encoding='utf-8') as f:
         reader = csv.DictReader(f)
         rows = list(reader)
 

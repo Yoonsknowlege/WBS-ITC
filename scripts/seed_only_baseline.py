@@ -86,7 +86,7 @@ def compute_layer(assigns, name):
 
 def main():
     ledger = os.path.join(DATA_DIR, 'decision_ledger.csv')
-    with open(ledger) as f:
+    with open(ledger, encoding='utf-8') as f:
         rows = list(csv.DictReader(f))
 
     active = [r for r in rows if r['analysis_set_443'] == 'true']

@@ -35,7 +35,7 @@ def parse_domains(s):
 def main():
     ledger_path = os.path.join(DATA_DIR, 'decision_ledger.csv')
 
-    with open(ledger_path, 'r') as f:
+    with open(ledger_path, 'r', encoding='utf-8') as f:
         reader = csv.DictReader(f)
         rows = list(reader)
 
