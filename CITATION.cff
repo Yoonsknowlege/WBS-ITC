@@ -12,9 +12,10 @@ authors:
 
 year: 2026
 
-# Concept DOI — always resolves to the latest version of this reproduction
-# package on Zenodo. A version-specific DOI will be added when a versioned
-# release is cut alongside manuscript submission/acceptance.
+# Version DOI for the archived Zenodo snapshot cited in the manuscript:
+doi: "10.5281/zenodo.20442140"
+
+# All-versions concept DOI (always resolves to the latest version):
 identifiers:
   - type: doi
     value: "10.5281/zenodo.20425593"
@@ -41,7 +42,7 @@ abstract: >
   Reproduction package for "Auditable denominator design for patent field delineation: A WBS-ITC codebook-plus-ledger approach".
   Contains the released adjudicated dataset, family-domain decision ledger,
   machine-readable WBS-ITC codebook, descriptive query provenance, and
-  scripts for exact downstream reconstruction of the core body tables
+  scripts for downstream regeneration of the core body tables
   (main analytical accounting and rule-to-adjudicated diagnostic outputs), body figures (Figs. 2, 3, 4), and Online Resource 1
   quantitative diagnostics (Tables S6a, S8, S9, S10, S13, the numeric
   components of Table S12, Table S14 within-layer comparison of
@@ -52,4 +53,5 @@ abstract: >
   supporting the Table S15 reviewer-executable blind audit protocol; no
   author-internal audit results are reported in the manuscript.
   Interpretive keyword summaries in Table S12 are documented but not
-  script-generated.
+  script-generated. MANIFEST.md provides the expected reference values
+  for verification of the regenerated outputs.

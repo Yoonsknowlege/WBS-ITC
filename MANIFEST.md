@@ -4,8 +4,9 @@ This file lists the expected numeric outputs of each reconstruction script
 against the released adjudicated mapping layer in `data/`. Use this as a
 sanity-check reference when running the package on a clean environment.
 
-All values correspond to the released adjudicated mapping layer and are
-derived from `data/decision_ledger.csv`,
+All values correspond to the released adjudicated mapping layer archived
+under version DOI [10.5281/zenodo.20442140](https://doi.org/10.5281/zenodo.20442140)
+(June 2026) and are derived from `data/decision_ledger.csv`,
 `data/phase2_453_families.json`, and `data/itc_codebook.json`.
 
 ---
@@ -241,5 +242,5 @@ Verify package integrity against this snapshot. Hashes are computed over the can
 | `environment.yml` | 152 | `d826bd242a0eec3c60ab02fdf92686ac0e570e6986f2a250bd4fe2f96948e3af` |
 | `run_all.sh` | 1543 | `003a6a4544aa2d67b280a6fc2173c61fb7e0e833733f1772998150d468a3daa7` |
 | `README.md` | 13764 | `d4c11c133e83e08956eee0ab5ff185e92f5df1dc36fb17a90fa41e34a961a841` |
-| `CITATION.cff` | 2291 | `4e6bdbd772a88e87343d310ce70df3be686a3f87a6f35f636898931e366db40f` |
+| `CITATION.cff` | 2340 | `b22ea9d599980baaec94ca552d4612caaba68da600f29bbfd14cbcb091c2c904` |
 | `LICENSE` | 272 | `ed8e5cc4b7c082357eb6ceccb99aa8aad5a84092b6bd0fb93f62ca19aaf960dd` |
