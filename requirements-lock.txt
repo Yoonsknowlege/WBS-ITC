@@ -1,0 +1,11 @@
+# Pinned versions for exact reconstruction of the WBS-ITC reproduction package.
+# Checked to reproduce the manuscript MANIFEST values on CPython 3.11 (Linux/macOS).
+# Use this file when strict environment fidelity is required:
+#   pip install -r requirements-lock.txt
+# Otherwise, use requirements.txt for the broader supported version ranges.
+
+numpy==1.26.4
+pandas==2.2.2
+scipy==1.11.4
+matplotlib==3.8.4
+seaborn==0.13.2

@@ -1,0 +1,53 @@
+cff-version: 1.2.0
+title: "Capability-based domain assignment for patent-based convergence analysis in classification-dispersed fields: an ISRU space-construction case"
+message: "If you use this repository, please cite the associated manuscript. The version DOI cites this specific snapshot; the concept DOI always resolves to the latest version."
+type: dataset
+
+authors:
+  - family-names: Lee
+    given-names: Tai Sik
+  - family-names: Lee
+    given-names: Yoonsun
+    orcid: "https://orcid.org/0000-0001-8229-9955"
+
+year: 2026
+version: "0.1.3"
+date-released: "2026-07-02"
+
+# Version DOI for this specific snapshot (v0.1.3):
+doi: "10.5281/zenodo.21124281"
+
+# All-versions concept DOI (always resolves to the latest version):
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.20993229"
+    description: "Concept DOI — all-versions identifier (always resolves to the latest version)."
+
+license: CC-BY-4.0
+
+keywords:
+  - patent-based convergence analysis
+  - patent field delineation
+  - classification-dispersed patent fields
+  - Cooperative Patent Classification
+  - WBS-ITC assignment
+  - co-tagging
+  - capability-based domain assignment
+  - lunar ISRU construction
+  - scientometrics
+
+repository-code: "https://github.com/Yoonsknowlege/WBS-ITC"
+
+abstract: >
+  Reproduction package for "Capability-based domain assignment for patent-based
+  convergence analysis in classification-dispersed fields: an ISRU
+  space-construction case." Contains the released family-level dataset, the
+  family-domain assignment table, the machine-readable WBS-ITC specification
+  (CPC/keyword rules), descriptive query provenance, and scripts that recompute
+  the data-derived body tables and figures (analytical accounting,
+  rule-hit/assignment agreement, top Jaccard co-tagging pairs; Figs. 2-5) and the
+  Online Resource 1 quantitative tables (S6a, S8, S9, S10, the numeric components
+  of S12, S13, S14, S16, and Fig. S1) reported in the manuscript. Quantities
+  compare the deterministic rule-hit layer with the claim-reviewed WBS-ITC
+  assignment as within-corpus agreement/divergence, not classifier-performance
+  metrics.

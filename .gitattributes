@@ -1,0 +1,10 @@
+# Enforce LF line endings for all text files so that the canonical
+# repository content (and any `git archive` / GitHub / Zenodo export)
+# is byte-identical across platforms. The SHA256 integrity table in
+# MANIFEST.md is computed over this LF content.
+* text=auto eol=lf
+
+# Treat binary assets as binary (no line-ending conversion).
+*.png binary
+*.json text eol=lf
+*.csv text eol=lf

@@ -1,0 +1,95 @@
+Lens.org Query Provenance — ISRU Construction Patent Dataset
+=============================================================
+
+This file documents the descriptive query provenance, including the
+CPC anchors, Boolean keyword groups, supplementary targeted queries,
+and post-retrieval processing steps used to assemble the released
+analytical layer. It is **not** a verbatim Lens.org saved-search URL,
+because Lens.org saved-search states are not guaranteed to replay
+deterministically over time (index coverage and field semantics may
+change). The query elements documented here are sufficient to
+re-execute the same conceptual retrieval against Lens.org or another
+patent search platform; the released 453-family analytical layer
+itself is provided in `data/phase2_453_families.json` for downstream
+reconstruction.
+
+Search platform:  Lens.org (scholarly + patent search)
+Retrieval date:   2026-03-28
+Export format:    JSON records with Lens simple-family identifiers
+                  retained at the record level. All downstream analyses
+                  were consolidated to the Lens simple-patent-family
+                  level.
+Application year / priority year:
+                  No date restriction was imposed at the retrieval-
+                  population level. The released dataset records
+                  earliest-priority years and publication years as
+                  observed in the exported Lens family records; body
+                  Fig. 3 reports earliest-priority-year tag intensity.
+                  Retrieval was conducted on 2026-03-28; exact replay
+                  of the Lens.org saved-search state is not claimed.
+
+Retrieval strategy
+------------------
+The initial retrieval universe was constructed through a two-stage
+CPC-based + keyword-expanded query on Lens.org.
+
+Query component 1 -- CPC-anchored retrieval:
+  CPC prefixes used in primary search:
+    B64G (cosmonautic vehicles/equipment)
+    C04B (lime; magnesia; slag; cements; ceramics; refractories)
+    B33Y (additive manufacturing)
+    E04H (buildings for particular purposes; shelters)
+    B22F (working metallic powder)
+    B28B (shaping clay or other ceramic compositions)
+    G01N (investigating/analysing materials)
+    B25J (manipulators; robots)
+    E04B (general building constructions)
+
+Query component 2 -- Keyword expansion:
+  Boolean structure:
+    ("lunar" OR "regolith" OR "planetary" OR "extraterrestrial"
+     OR "moon" OR "mars" OR "space construction" OR "in-situ resource")
+    AND
+    ("construction" OR "manufacturing" OR "additive" OR "structure"
+     OR "material" OR "sintering" OR "habitat" OR "shielding"
+     OR "3d print" OR "robotic" OR "landing pad")
+
+  Additional targeted queries for under-represented domains:
+    "contour crafting" OR "lunar concrete" OR "regolith processing"
+    "extraterrestrial construction" OR "space manufacturing"
+
+Post-retrieval processing
+-------------------------
+1. Deduplication at the simple-family level
+2. Two-pass author relevance screening with consensus scoring on a 0-5
+   mechanism-level transfer-relevance rubric (retention threshold >= 2.5);
+   no AI-generated ranking was used to exclude records.
+   See manuscript Sections 3.1-3.3 and Online Resource 1 Appendix S2
+   for the full screening protocol and retrieval flow record counts.
+3. Versioned-codebook supplementary CPC-bridging rescue pass to identify
+   families not captured in the initial pass (12 rescued records pre-dedup; 10 independent
+   rescue families in the final 453-family released corpus, 9 of which
+   are ITC-classified).
+
+Retrieval flow record counts (matches Online Resource 1 Appendix S2)
+--------------------------------------------------------------------
+Stage 1: Initial Lens.org retrieval                     1,093 records
+Stage 2: Two-pass author relevance screening (>=2.5)      511 records
+Stage 3: Versioned-codebook ITC rescue                    +12 records
+Stage 4: Pre-deduplication corpus                          523 records
+Stage 5: Lens Simple Patent Family deduplication           453 unique families
+Stage 6: Status-flag exclusions (9 false + 1 screening-log-only)   -10 families
+Stage 7: Analytically active layer                          443 families
+Stage 8: ITC-classified subset (>=1 assignment tag)        373 families
+Stage 9: Assignment family-domain tags                     795 tags
+
+Important limitations
+---------------------
+- The analytical dataset is NOT a direct Boolean output.
+- The final 453-family released dataset was constructed through staged
+  screening, author claim review, and supplementary retrieval.
+- Exact retrieval-universe replay requires the Lens.org saved search
+  state at the retrieval date, which may not be reproducible due to
+  index updates and coverage changes.
+- The repository supports framework reuse and analytical reconstruction,
+  not deterministic replay of the initial retrieval universe.

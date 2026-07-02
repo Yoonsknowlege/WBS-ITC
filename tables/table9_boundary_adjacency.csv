@@ -1,0 +1,5 @@
+domain_pair,code_pair,inherited_jaccard,inherited_rank,constructed_jaccard,constructed_rank,rank_shift
+Autonomous Construction x Habitat Structures,3-3 x 4-1,0.162,1,0.039,52,1 -> 52
+Extrusion AM x Process Monitoring,2-1 x 2-4,0.124,4,0.341,1,4 -> 1
+Shielding x Deployable Structures,4-2 x 4-4,0.029,22,0.26,3,22 -> 3
+Composite/Ceramic x Solar/Laser Sintering,1-3 x 2-3,0.016,34,0.168,6,34 -> 6
